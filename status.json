@@ -1,11 +1,11 @@
-{"round":"Round 9","updated":"2026-11-24T21:16:00Z","overall_eta":"2026-11-24T21:45:00Z",
+{"round":"Round 9","updated":"2026-11-24T21:53:00Z","overall_eta":"2026-11-24T22:08:00Z",
 "steps":[
 {"name":"Edit fixes","start":"2026-11-24T20:42:00Z","end":"2026-11-24T20:47:00Z"},
-{"name":"Gemini QA r9b","start":"2026-11-24T21:13:00Z","end":"2026-11-24T21:14:00Z"},
-{"name":"Fix pass: V1 VO timing, V2 'franchise' audio, V3 stronger push-in","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T21:22:00Z"},
-{"name":"V3 clean map frame + new circle takes","start":"2026-11-24T21:16:00Z","eta":"2026-11-24T21:32:00Z"},
-{"name":"Final render + Gemini re-QA","start":"2026-11-24T21:32:00Z","eta":"2026-11-24T21:45:00Z"}],
+{"name":"Fix pass (VO timing, 'franchise', push-in)","start":"2026-11-24T21:15:00Z","end":"2026-11-24T21:19:00Z"},
+{"name":"V3 clean map + circle takes","start":"2026-11-24T21:16:00Z","end":"2026-11-24T21:52:00Z"},
+{"name":"V3 render with new circle","start":"2026-11-24T21:52:00Z","eta":"2026-11-24T21:56:00Z"},
+{"name":"Gemini re-QA (final)","start":"2026-11-24T21:57:00Z","eta":"2026-11-24T22:08:00Z"}],
 "videos":[
-{"name":"V1 · Marcus","stage":"Re-rendering fix","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T21:45:00Z","qa":"FAIL","note":"r9b: 'if' heard 'ife', size jump 17-23, VO tail on camera at 23"},
-{"name":"V2 · Dani","stage":"Re-rendering fix","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T21:45:00Z","qa":"FAIL","note":"r9b: 'franchises', MILA snap off-sync, size jumps, eyes shut 19.8"},
-{"name":"V3 · Lucía","stage":"New clean-map circle take","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T21:45:00Z","qa":"FAIL","note":"r9b: no hook camera move, circle pre-drawn 20.2-22.5"}]}
+{"name":"V1 · Marcus","stage":"Rendered, waiting for Gemini","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T22:08:00Z","qa":"pending","note":"30.0s; VO ends before Marcus is on camera"},
+{"name":"V2 · Dani","stage":"Rendered, waiting for Gemini","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T22:08:00Z","qa":"pending","note":"30.0s; 'franchise' now clean (Whisper)"},
+{"name":"V3 · Lucía","stage":"Rendering new circle shot","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T22:08:00Z","qa":"pending","note":"Circle now drawn live (take b58f7d7d)"}]}
