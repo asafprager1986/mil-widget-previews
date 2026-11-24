@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T23:05:24Z",
+ "updated": "2026-11-24T23:05:28Z",
  "runs": [
   {
    "video": "V2 Dani r11",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-24T23:04:25Z",
    "log": [
     {
@@ -153,8 +153,17 @@
     {
      "t": "2026-11-24T23:05:24Z",
      "text": "{\"verdict\":\"FAIL\",\"fails\":[{\"item\":\"Video Segment\",\"at\":\"12.2-12.6s\",\"note\":\"Lip-sync mismatch and mid-sentence cut\"},{\"item\":\"Phone Screen UI\",\"at\":\"17.59-20.46s\",\"note\":\"Garbled UI, does not match narrative\"},{\"item\":\"Video Segment\",\"at\":\"27.6-30.0s\",\"note\":\"The end card is inconsistent, and also contains captions.\"}],\"passes\":[],\"usable_range\":\"0.0-12.2s\"}"
+    },
+    {
+     "t": "2026-11-24T23:05:28Z",
+     "text": "Verdict FAIL. VO diff: 'area is' -> \"area's\" | 17.6-20.5s Phone UI & text (Fix C / #6, #11): Screen shows garbled AI boxes instead of the required 'Calculating your quote...' / 'Flat price' booking UI. | 12.2-12.6s Lip-sync & cut timing (#7, #8): 'As an' starts while Dani smiles with mouth closed, cutting mid-phrase into 'owner'. | 28.5-30.0s Prop text morph (#11): Clipboard 'Shower track' morphs "
+    },
+    {
+     "t": "2026-11-24T23:05:28Z",
+     "text": "slightly to look like 'Shower crack'."
     }
-   ]
+   ],
+   "finished": "2026-11-24T23:05:28Z"
   },
   {
    "video": "V1 Marcus r11",
