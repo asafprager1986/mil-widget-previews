@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:31:34Z",
+ "updated": "2026-11-24T22:31:44Z",
  "runs": [
   {
    "video": "V2 Dani r10",
@@ -65,6 +65,34 @@
     {
      "t": "2026-11-24T22:31:34Z",
      "text": "I'm now zeroing in on significant size inconsistencies of MILA throughout the video. At 00:20-00:25, MILA is shown tiny as she hands over \"HIRING HELP.\" Then, the size discrepancy becomes even more glaring at 00:22.95-00:25.08, where she is doll-sized on Dani's arm. Also, note the size shifts from life-size to tiny, then back to HUGE. The checklist shows the blank-line text."
+    },
+    {
+     "t": "2026-11-24T22:31:37Z",
+     "text": "Analyzing Lip Sync Issues"
+    },
+    {
+     "t": "2026-11-24T22:31:37Z",
+     "text": "I'm now honing in on the crucial lip-sync discrepancies. I've noted that at 00:27.5-00:28.5, Dani's lips remain closed while the voiceover says, \"See if your area is still open.\" There's a clear mismatch here. I'm verifying the audio against lip movements, from 00:27.5 to 00:29.8, in order to confirm the extent of this error and its implications for the overall assessment."
+    },
+    {
+     "t": "2026-11-24T22:31:41Z",
+     "text": "Confirming Audio Synchronization"
+    },
+    {
+     "t": "2026-11-24T22:31:41Z",
+     "text": "I'm now laser-focused on the lip-sync failures. Dani's mouth is completely closed while the voiceover states, \"See if your area is still,\" resulting in a massive lip-sync error at 00:27.5-00:28.6. Then, her mouth moves correctly when she says the word \"open.\" I'm now cross-referencing all previously identified failures with timestamps for complete accuracy. I am confident in the timestamps of all "
+    },
+    {
+     "t": "2026-11-24T22:31:41Z",
+     "text": "previously documented failures, now that I have this."
+    },
+    {
+     "t": "2026-11-24T22:31:44Z",
+     "text": "Verifying Subtle Details"
+    },
+    {
+     "t": "2026-11-24T22:31:44Z",
+     "text": "I'm now cross-referencing all details, including MILA's eye movements (normal blinking), arm positions (two, with yellow gloves), and overall video length (30.00s). The end card, phone UI (00:17.6-00:20.1), and caption placement are all PASS. Dani's lip-sync and clarity from 00:12.6-00:17.6 and 00:22.9-00:25.1 are good, aside from the blank clipboard and scale jump, respectively."
     }
    ]
   }
