@@ -1,7 +1,7 @@
 {
  "round": "Round 10",
- "updated": "2026-11-24T22:24:00Z",
- "overall_eta": "2026-11-24T22:45:00Z",
+ "updated": "2026-11-24T22:30:00Z",
+ "overall_eta": "2026-11-24T22:40:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -31,7 +31,7 @@
   {
    "name": "V2 pick takes (Whisper word check) + assemble",
    "start": "2026-11-24T22:13:00Z",
-   "eta": "2026-11-24T22:32:00Z"
+   "end": "2026-11-24T22:29:00Z"
   },
   {
    "name": "V1 r10 assemble",
@@ -45,8 +45,8 @@
   },
   {
    "name": "Gemini QA V2 r10",
-   "start": "2026-11-24T22:32:00Z",
-   "eta": "2026-11-24T22:45:00Z"
+   "start": "2026-11-24T22:30:00Z",
+   "eta": "2026-11-24T22:40:00Z"
   }
  ],
  "videos": [
@@ -61,11 +61,11 @@
   },
   {
    "name": "V2 \u00b7 Dani",
-   "stage": "Assembling r10 (new takes + tracked phone screen)",
+   "stage": "r10 ready, Gemini QA running",
    "start": "2026-11-24T22:02:00Z",
-   "eta": "2026-11-24T22:45:00Z",
+   "eta": "2026-11-24T22:40:00Z",
    "qa": "pending",
-   "note": "New: 'As an owner...', phone line, ending; MILA one size"
+   "note": "3 new Dani shots, tracked booking app, words exact"
   },
   {
    "name": "V3 \u00b7 Luc\u00eda",
