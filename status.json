@@ -1,7 +1,7 @@
 {
  "round": "Round 10",
- "updated": "2026-11-24T23:12:00Z",
- "overall_eta": "2026-11-24T23:20:00Z",
+ "updated": "2026-11-24T23:14:00Z",
+ "overall_eta": "2026-11-24T23:19:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -96,12 +96,12 @@
   {
    "name": "V2 r12: bigger phone app text + push-in on phone shot",
    "start": "2026-11-24T23:09:00Z",
-   "eta": "2026-11-24T23:15:00Z"
+   "end": "2026-11-24T23:13:00Z"
   },
   {
    "name": "Gemini QA V2 r12 (full-res phone frames)",
-   "start": "2026-11-24T23:15:00Z",
-   "eta": "2026-11-24T23:19:00Z"
+   "start": "2026-11-24T23:14:00Z",
+   "eta": "2026-11-24T23:18:00Z"
   }
  ],
  "videos": [
