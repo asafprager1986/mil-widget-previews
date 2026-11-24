@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:14:04Z",
+ "updated": "2026-11-24T23:14:19Z",
  "runs": [
   {
    "video": "V2 Dani r12",
@@ -65,6 +65,54 @@
     {
      "t": "2026-11-24T23:14:04Z",
      "text": "I'm now intently re-examining the critical 18-20.5-second timeframe, specifically the phone screen's content to confirm that the green \"Flat price\" card never appears. I've re-checked the cut to the sticky notes\u2014it's at ~20.0s. I'm focusing on \"Getting your price...\" and confirming that the scene ends before the transition."
+    },
+    {
+     "t": "2026-11-24T23:14:07Z",
+     "text": "Confirming the Details"
+    },
+    {
+     "t": "2026-11-24T23:14:07Z",
+     "text": "I'm now zeroing in on the promised \"flat price\" card. My analysis has revealed the card's absence on the phone screen. At around 19.9-20.0s, I see that the scene cuts to the sticky note b-roll right when she states \"flat price\". I've confirmed that the overlay accurately tracks with the phone bezel. I observed that the phone UI remains on \"Getting your price...\" until the transition. I am now noti"
+    },
+    {
+     "t": "2026-11-24T23:14:07Z",
+     "text": "ng that at 19.0s MILA turns her head left looking at Dani's phone."
+    },
+    {
+     "t": "2026-11-24T23:14:11Z",
+     "text": "Examining the Sequence"
+    },
+    {
+     "t": "2026-11-24T23:14:11Z",
+     "text": "I'm now carefully examining the 20-22.5s sequence to correlate visual and auditory cues. Specifically, I'm noting the sequence of captions, with \"TRAINING\" appearing at 20.0s, followed by \"TRAINING SOFTWARE AND\" and then \"HELP HIRING YOUR\" at 22.0s. I am also making note of the timing of the captions, as well as the audio. Furthermore, I am noting MILA's expressions and actions during this segment"
+    },
+    {
+     "t": "2026-11-24T23:14:11Z",
+     "text": "."
+    },
+    {
+     "t": "2026-11-24T23:14:14Z",
+     "text": "Analyzing the Ending"
+    },
+    {
+     "t": "2026-11-24T23:14:14Z",
+     "text": "I am now thoroughly examining the final sequence, spanning from 23.0 to 30.0 seconds. I've noted Dani holding the map with a red circle, the voiceover's synchronization with her lip movements, and MILA's position as she holds the marker. I am clarifying how to characterize the actions observed. I've re-examined the map drawing sequence, confirming that MILA is not explicitly drawing. Finally, I'm "
+    },
+    {
+     "t": "2026-11-24T23:14:14Z",
+     "text": "reviewing the checklist details in the concluding shot to support the JSON."
+    },
+    {
+     "t": "2026-11-24T23:14:19Z",
+     "text": "Verifying the Details"
+    },
+    {
+     "t": "2026-11-24T23:14:19Z",
+     "text": "I'm now deep in the final seconds, cross-referencing visual data with the checklist's evolution. I've pinpointed the \"Shower track\" to \"Shower crack\" morph at 29.0s, and confirmed the checkbox state. At 27.0s, all boxes are checked, and at 28.0s, only \"Spots\" is checked. At 29.0s, the lower boxes morph, with \"track\" becoming \"crack\"! I am also noting the arrival of the MIL logo end card around 27."
+    },
+    {
+     "t": "2026-11-24T23:14:19Z",
+     "text": "6-28.0s."
     }
    ]
   },
