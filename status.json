@@ -1,58 +1,10 @@
-{
- "round": "Round 9",
- "updated": "2026-11-24T21:58:00Z",
- "overall_eta": "2026-11-24T21:58:00Z",
- "steps": [
-  {
-   "name": "Edit fixes",
-   "start": "2026-11-24T20:42:00Z",
-   "end": "2026-11-24T20:47:00Z"
-  },
-  {
-   "name": "Fix pass (VO timing, 'franchise', push-in)",
-   "start": "2026-11-24T21:15:00Z",
-   "end": "2026-11-24T21:19:00Z"
-  },
-  {
-   "name": "V3 clean map + live circle",
-   "start": "2026-11-24T21:16:00Z",
-   "end": "2026-11-24T21:55:00Z"
-  },
-  {
-   "name": "Final files to project (r9c)",
-   "start": "2026-11-24T21:55:00Z",
-   "end": "2026-11-24T21:56:00Z"
-  },
-  {
-   "name": "Gemini QA (info only, no more renders)",
-   "start": "2026-11-24T21:56:00Z",
-   "end": "2026-11-24T21:56:00Z"
-  }
- ],
- "videos": [
-  {
-   "name": "V1 \u00b7 Marcus",
-   "stage": "Ready for Asaf review",
-   "start": "2026-11-24T20:42:00Z",
-   "eta": "2026-11-24T21:58:00Z",
-   "qa": "FAIL",
-   "note": "Asaf r9 notes all pass; Gemini nits: 'rings'/'if' VO, note blink 17.6, caption early 23.0"
-  },
-  {
-   "name": "V2 \u00b7 Dani",
-   "stage": "Ready for Asaf review",
-   "start": "2026-11-24T20:42:00Z",
-   "eta": "2026-11-24T21:58:00Z",
-   "qa": "FAIL",
-   "note": "Gemini nits: 'quality' cut at 2.4, MILA waves not snaps, size changes across cuts"
-  },
-  {
-   "name": "V3 \u00b7 Luc\u00eda",
-   "stage": "Ready for Asaf review",
-   "start": "2026-11-24T20:42:00Z",
-   "eta": "2026-11-24T21:58:00Z",
-   "qa": "FAIL",
-   "note": "Circle now draws live; Gemini nits: stopwatch 4.8-6.5, MILA size on counter"
-  }
- ]
-}
+{"round":"Round 9","updated":"2026-11-24T22:00:30Z","overall_eta":"2026-11-24T22:30:00Z",
+"steps":[
+{"name":"Final r9c edits","start":"2026-11-24T20:42:00Z","end":"2026-11-24T21:55:00Z"},
+{"name":"Gemini QA r9c (info)","start":"2026-11-24T21:56:00Z","end":"2026-11-24T21:56:00Z"},
+{"name":"V3 4:5 + 16:9 sizes","start":"2026-11-24T21:58:00Z","end":"2026-11-24T21:59:30Z"},
+{"name":"V1 + V2 rebuild from reshoot takes","start":"2026-11-24T22:00:00Z","eta":"2026-11-24T22:30:00Z"}],
+"videos":[
+{"name":"V1 · Marcus","stage":"Waiting: confirming 'bigger reshoots' scope","start":"2026-11-24T22:00:00Z","eta":"2026-11-24T22:30:00Z","qa":"FAIL","note":"r9c already uses all V1 reshoot takes"},
+{"name":"V2 · Dani","stage":"Waiting: confirming 'bigger reshoots' scope","start":"2026-11-24T22:00:00Z","eta":"2026-11-24T22:30:00Z","qa":"FAIL","note":"~70% still the original Dani take"},
+{"name":"V3 · Lucía","stage":"APPROVED, all 3 sizes done","start":"2026-11-24T20:42:00Z","end":"2026-11-24T21:59:30Z","eta":"2026-11-24T21:59:30Z","qa":"APPROVED","note":"9:16, 4:5, 16:9 in edits_r7"}]}
