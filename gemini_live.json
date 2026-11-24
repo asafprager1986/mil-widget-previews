@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T23:05:28Z",
+ "updated": "2026-11-24T23:07:16Z",
  "runs": [
+  {
+   "video": "V1 Marcus r11b",
+   "status": "judging",
+   "started": "2026-11-24T23:07:16Z",
+   "log": [
+    {
+     "t": "2026-11-24T23:07:16Z",
+     "text": "Gemini 4 Neon started judging against Asaf's checklist."
+    }
+   ]
+  },
   {
    "video": "V2 Dani r11",
    "status": "FAIL",
