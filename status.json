@@ -1,10 +1,64 @@
-{"round":"Round 9","updated":"2026-11-24T22:00:30Z","overall_eta":"2026-11-24T22:30:00Z",
-"steps":[
-{"name":"Final r9c edits","start":"2026-11-24T20:42:00Z","end":"2026-11-24T21:55:00Z"},
-{"name":"Gemini QA r9c (info)","start":"2026-11-24T21:56:00Z","end":"2026-11-24T21:56:00Z"},
-{"name":"V3 4:5 + 16:9 sizes","start":"2026-11-24T21:58:00Z","end":"2026-11-24T21:59:30Z"},
-{"name":"V1 + V2 rebuild from reshoot takes","start":"2026-11-24T22:00:00Z","eta":"2026-11-24T22:30:00Z"}],
-"videos":[
-{"name":"V1 · Marcus","stage":"Waiting: confirming 'bigger reshoots' scope","start":"2026-11-24T22:00:00Z","eta":"2026-11-24T22:30:00Z","qa":"FAIL","note":"r9c already uses all V1 reshoot takes"},
-{"name":"V2 · Dani","stage":"Waiting: confirming 'bigger reshoots' scope","start":"2026-11-24T22:00:00Z","eta":"2026-11-24T22:30:00Z","qa":"FAIL","note":"~70% still the original Dani take"},
-{"name":"V3 · Lucía","stage":"APPROVED, all 3 sizes done","start":"2026-11-24T20:42:00Z","end":"2026-11-24T21:59:30Z","eta":"2026-11-24T21:59:30Z","qa":"APPROVED","note":"9:16, 4:5, 16:9 in edits_r7"}]}
+{
+ "round": "Round 9",
+ "updated": "2026-11-24T22:03:00Z",
+ "overall_eta": "2026-11-24T22:40:00Z",
+ "steps": [
+  {
+   "name": "Final r9c edits",
+   "start": "2026-11-24T20:42:00Z",
+   "end": "2026-11-24T21:55:00Z"
+  },
+  {
+   "name": "Gemini QA r9c (info)",
+   "start": "2026-11-24T21:56:00Z",
+   "end": "2026-11-24T21:56:00Z"
+  },
+  {
+   "name": "V3 4:5 + 16:9 sizes",
+   "start": "2026-11-24T21:58:00Z",
+   "end": "2026-11-24T21:59:30Z"
+  },
+  {
+   "name": "V2 re-shoot: 9 new Kling takes (3 shots x 3)",
+   "start": "2026-11-24T22:02:00Z",
+   "eta": "2026-11-24T22:14:00Z"
+  },
+  {
+   "name": "V2 pick takes + assemble 30.0s",
+   "start": "2026-11-24T22:14:00Z",
+   "eta": "2026-11-24T22:28:00Z"
+  },
+  {
+   "name": "V2 Gemini QA",
+   "start": "2026-11-24T22:28:00Z",
+   "eta": "2026-11-24T22:40:00Z"
+  }
+ ],
+ "videos": [
+  {
+   "name": "V1 \u00b7 Marcus",
+   "stage": "Kept as is (r9c)",
+   "start": "2026-11-24T22:00:00Z",
+   "eta": "2026-11-24T21:55:00Z",
+   "qa": "FAIL",
+   "note": "No changes per Asaf"
+  },
+  {
+   "name": "V2 \u00b7 Dani",
+   "stage": "Re-shooting 3 Dani shots",
+   "start": "2026-11-24T22:02:00Z",
+   "eta": "2026-11-24T22:40:00Z",
+   "qa": "pending",
+   "note": "New: 'As an owner...', phone line, ending; MILA one size"
+  },
+  {
+   "name": "V3 \u00b7 Luc\u00eda",
+   "stage": "APPROVED, all 3 sizes done",
+   "start": "2026-11-24T20:42:00Z",
+   "end": "2026-11-24T21:59:30Z",
+   "eta": "2026-11-24T21:59:30Z",
+   "qa": "APPROVED",
+   "note": "9:16, 4:5, 16:9 in edits_r7"
+  }
+ ]
+}
