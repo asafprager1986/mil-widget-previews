@@ -1,35 +1,11 @@
 {
- "updated": "2026-11-24T23:00:40Z",
+ "updated": "2026-11-24T23:00:56Z",
  "runs": [
   {
    "video": "V1 Marcus r11",
    "status": "judging",
    "started": "2026-11-24T22:59:43Z",
    "log": [
-    {
-     "t": "2026-11-24T22:59:43Z",
-     "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-24T22:59:57Z",
-     "text": "Analyzing Asset Thoroughly"
-    },
-    {
-     "t": "2026-11-24T22:59:57Z",
-     "text": "I'm now meticulously dissecting the video asset, cross-referencing it with the instructions, checklist, and r11 fixes. My focus is entirely on ensuring the asset aligns perfectly with every requirement. I'm prioritizing generating a flawless JSON output, without any extraneous text."
-    },
-    {
-     "t": "2026-11-24T23:00:00Z",
-     "text": "Refining Video Scrutiny"
-    },
-    {
-     "t": "2026-11-24T23:00:00Z",
-     "text": "I'm now focusing on brevity, extracting key details and using high-level summaries for the video analysis. My goal is a concise verdict and associated data without excess verbiage. I'm prioritizing direct observation and eliminating non-essential information."
-    },
-    {
-     "t": "2026-11-24T23:00:03Z",
-     "text": "Observing Detailed Interactions"
-    },
     {
      "t": "2026-11-24T23:00:03Z",
      "text": "I've carefully examined the character interactions. MILA is depicted with curlers, a teacup, and a \"ALREADY BOOKED\" note, referencing a 9 p.m. call. I noted the clock at 9:00. I confirmed lip sync accuracy for Marcus's dialogue and verified hand positions. I then moved on to analyzing a subsequent cut from 00:08.8 to 00:11.25, focusing on character positioning, dialogue, and captions, noting the b"
@@ -149,6 +125,46 @@
     {
      "t": "2026-11-24T23:00:40Z",
      "text": "I'm now carefully reviewing the stamp shot again, focusing on the visual cue. Marcus's hand withdraws and the sticky notes remain clear, both of which are fine. However, while MILA lifts and slams the stamp, the \"YOURS\" text fails to appear on the note at any point, a clear visual discrepancy."
+    },
+    {
+     "t": "2026-11-24T23:00:42Z",
+     "text": "Evaluating Speech Precision"
+    },
+    {
+     "t": "2026-11-24T23:00:42Z",
+     "text": "I'm now carefully analyzing MILA's dialogue in the final shot segment. While the lip-syncing appears accurate for Marcus and the captions align with his speech, MILA\u2019s pronunciation of \"if\" at around 26.4 seconds as \"eye-eff\" is a distinct error, and fails the test. The end card appears at 26.45 as expected. I'm noting all the details from the segment."
+    },
+    {
+     "t": "2026-11-24T23:00:45Z",
+     "text": "Assessing Checklist Compliance"
+    },
+    {
+     "t": "2026-11-24T23:00:45Z",
+     "text": "I'm now methodically checking the entire QA checklist for any oversights. So far, the actions in each shot segment seem motivated: Marcus's missed calls, MILA with the note, app usage, the stamp interaction, and the concluding CTA all contribute. I've noted a size issue at 17.29-21.96s where MILA appears much smaller compared to Marcus's hand."
+    },
+    {
+     "t": "2026-11-24T23:00:49Z",
+     "text": "Verifying Constant Size"
+    },
+    {
+     "t": "2026-11-24T23:00:49Z",
+     "text": "I'm now zeroing in on MILA's size and position from 22.0 to 25.0 seconds. The size change, which is a violation of checklist #4, is obvious as she moves closer. At ~24 seconds, her foot placement on the counter appears slightly unnatural. From 0-3.6s, the UI remains consistently locked on screen, with a clear focus on the text and interface."
+    },
+    {
+     "t": "2026-11-24T23:00:52Z",
+     "text": "Confirming Segment Details"
+    },
+    {
+     "t": "2026-11-24T23:00:52Z",
+     "text": "I'm now carefully examining the segment from 17.29-21.96s where the voiceover plays with MILA's mouth closed. I've noted a failure in the stamp's visual reveal of \"YOURS\", as it remains blank. I'm also reviewing sync issues from 21.96-30.0s. I am also checking all the segment cuts, and I confirm clean visual transitions between all the scenes. Also, the SFX seem accurate and timely."
+    },
+    {
+     "t": "2026-11-24T23:00:55Z",
+     "text": "Evaluating Static Character"
+    },
+    {
+     "t": "2026-11-24T23:00:56Z",
+     "text": "I'm now carefully examining Marcus from 25.5s to the end. I'm noting his extremely static and frozen smile while MILA delivers the call-to-action, which is a clear violation of the \"static people\" rule. This is a significant issue. I've also checked caption spelling and safe zones and all is well."
     }
    ]
   },
