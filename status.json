@@ -1,7 +1,7 @@
 {
  "round": "Round 10",
- "updated": "2026-11-24T22:30:00Z",
- "overall_eta": "2026-11-24T22:40:00Z",
+ "updated": "2026-11-24T22:36:00Z",
+ "overall_eta": "2026-11-24T22:52:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -46,7 +46,17 @@
   {
    "name": "Gemini QA V2 r10",
    "start": "2026-11-24T22:30:00Z",
-   "eta": "2026-11-24T22:40:00Z"
+   "end": "2026-11-24T22:33:00Z"
+  },
+  {
+   "name": "V2 r10b quick fixes (checklist text + quality audio)",
+   "start": "2026-11-24T22:35:00Z",
+   "eta": "2026-11-24T22:44:00Z"
+  },
+  {
+   "name": "Gemini QA V2 r10b",
+   "start": "2026-11-24T22:44:00Z",
+   "eta": "2026-11-24T22:52:00Z"
   }
  ],
  "videos": [
@@ -61,11 +71,11 @@
   },
   {
    "name": "V2 \u00b7 Dani",
-   "stage": "r10 ready, Gemini QA running",
+   "stage": "r10b quick fixes (Asaf: quick fixes only)",
    "start": "2026-11-24T22:02:00Z",
-   "eta": "2026-11-24T22:40:00Z",
-   "qa": "pending",
-   "note": "3 new Dani shots, tracked booking app, words exact"
+   "eta": "2026-11-24T22:52:00Z",
+   "qa": "FAIL",
+   "note": "Restoring checklist text on new takes, quality audio +0.1s"
   },
   {
    "name": "V3 \u00b7 Luc\u00eda",
