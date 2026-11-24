@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T22:42:36Z",
+ "updated": "2026-11-24T22:43:05Z",
  "runs": [
   {
    "video": "V2 Dani r10b",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-24T22:41:58Z",
    "log": [
     {
@@ -109,8 +109,17 @@
     {
      "t": "2026-11-24T22:42:36Z",
      "text": "I'm now consolidating my findings into a structured assessment, focusing on the key discrepancies. The length is spot on, and MILA is consistent, with good lip-sync and clear audio in several takes. I've validated the phone UI tracking and clipboard legibility. The end card appears correct, and I've noted a lack of motivated action during MILA's wave."
+    },
+    {
+     "t": "2026-11-24T22:43:05Z",
+     "text": "Verdict FAIL. VO diff: 'quality' -> 'clap qualit'; 'area is' -> \"area's\" | 00:02.4 Word cut-off (#8): 'quality' is clipped right before the cut. | 00:09.6, 00:22.9, 00:25.1 Constant size (#4): MILA jumps dramatically in scale\u2014small at 00:00\u201300:05.5 and 00:22.9\u201300:25.1, much larger at 00:09.6\u201300:20.1 and 00:25.1\u201300:30.0. | 00:00.0-00:02.4 Hook (#2): Static opening shot lacks a dynamic camera move. "
+    },
+    {
+     "t": "2026-11-24T22:43:05Z",
+     "text": "| 00:02.5, 00:12.6 Needless jump cuts (#3/#14): Hard jump cuts on nearly identical Dani+MILA framings. | 00:01.0-00:02.4 Motivated actions (#1): MILA waves aimlessly while Dani snaps her glove."
     }
-   ]
+   ],
+   "finished": "2026-11-24T22:43:05Z"
   },
   {
    "video": "V2 Dani r10",
