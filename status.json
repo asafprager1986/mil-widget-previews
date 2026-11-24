@@ -1,7 +1,7 @@
 {
  "round": "Round 10",
- "updated": "2026-11-24T23:00:00Z",
- "overall_eta": "2026-11-24T23:15:00Z",
+ "updated": "2026-11-24T23:05:00Z",
+ "overall_eta": "2026-11-24T23:16:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -69,19 +69,29 @@
    "end": "2026-11-24T22:59:00Z"
   },
   {
-   "name": "Gemini QA V1 r11",
+   "name": "Gemini QA V1 r11 (FAIL: stamp reveal, rings/if diction)",
    "start": "2026-11-24T23:00:00Z",
-   "eta": "2026-11-24T23:06:00Z"
+   "end": "2026-11-24T23:01:00Z"
   },
   {
    "name": "V2 r11: new clean-phone take (3 Kling) + quality audio + snap sync",
    "start": "2026-11-24T22:46:00Z",
-   "eta": "2026-11-24T23:06:00Z"
+   "end": "2026-11-24T23:03:00Z"
   },
   {
    "name": "Gemini QA V2 r11",
-   "start": "2026-11-24T23:06:00Z",
-   "eta": "2026-11-24T23:13:00Z"
+   "start": "2026-11-24T23:05:00Z",
+   "eta": "2026-11-24T23:11:00Z"
+  },
+  {
+   "name": "V1 r11b: stamp reveal held + ending re-timed",
+   "start": "2026-11-24T23:01:00Z",
+   "eta": "2026-11-24T23:08:00Z"
+  },
+  {
+   "name": "Gemini QA V1 r11b",
+   "start": "2026-11-24T23:09:00Z",
+   "eta": "2026-11-24T23:15:00Z"
   }
  ],
  "videos": [
