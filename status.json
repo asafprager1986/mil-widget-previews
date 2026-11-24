@@ -1,7 +1,7 @@
 {
  "round": "Round 10",
- "updated": "2026-11-24T23:14:00Z",
- "overall_eta": "2026-11-24T23:19:00Z",
+ "updated": "2026-11-24T23:17:00Z",
+ "overall_eta": "2026-11-24T23:17:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -99,9 +99,14 @@
    "end": "2026-11-24T23:13:00Z"
   },
   {
-   "name": "Gemini QA V2 r12 (full-res phone frames)",
+   "name": "Gemini QA V2 r12 (phone PASS on full-res; lip/clipboard flags checked = proxy misses)",
    "start": "2026-11-24T23:14:00Z",
-   "eta": "2026-11-24T23:18:00Z"
+   "end": "2026-11-24T23:15:00Z"
+  },
+  {
+   "name": "V1 r11b + V2 r12 ready for Asaf review (9:16)",
+   "start": "2026-11-24T23:17:00Z",
+   "end": "2026-11-24T23:17:00Z"
   }
  ],
  "videos": [
