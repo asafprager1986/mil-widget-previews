@@ -1,7 +1,7 @@
 {
  "round": "Round 10",
- "updated": "2026-11-24T23:05:00Z",
- "overall_eta": "2026-11-24T23:16:00Z",
+ "updated": "2026-11-24T23:12:00Z",
+ "overall_eta": "2026-11-24T23:20:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -79,19 +79,29 @@
    "end": "2026-11-24T23:03:00Z"
   },
   {
-   "name": "Gemini QA V2 r11",
+   "name": "Gemini QA V2 r11 (FAIL: phone text smudged at 540p, rest fixed)",
    "start": "2026-11-24T23:05:00Z",
-   "eta": "2026-11-24T23:11:00Z"
+   "end": "2026-11-24T23:06:00Z"
   },
   {
    "name": "V1 r11b: stamp reveal held + ending re-timed",
    "start": "2026-11-24T23:01:00Z",
-   "eta": "2026-11-24T23:08:00Z"
+   "end": "2026-11-24T23:05:00Z"
   },
   {
-   "name": "Gemini QA V1 r11b",
+   "name": "Gemini QA V1 r11b (rings/if diction flagged; YOURS reveal verified by frames)",
+   "start": "2026-11-24T23:07:00Z",
+   "end": "2026-11-24T23:08:00Z"
+  },
+  {
+   "name": "V2 r12: bigger phone app text + push-in on phone shot",
    "start": "2026-11-24T23:09:00Z",
    "eta": "2026-11-24T23:15:00Z"
+  },
+  {
+   "name": "Gemini QA V2 r12 (full-res phone frames)",
+   "start": "2026-11-24T23:15:00Z",
+   "eta": "2026-11-24T23:19:00Z"
   }
  ],
  "videos": [
