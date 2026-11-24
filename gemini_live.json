@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:00:26Z",
+ "updated": "2026-11-24T23:00:40Z",
  "runs": [
   {
    "video": "V1 Marcus r11",
@@ -101,6 +101,54 @@
     {
      "t": "2026-11-24T23:00:26Z",
      "text": "I'm now zeroing in on MILA's speech from 26.2 to 27.5 seconds. I noticed a distinct pronunciation error in \"See *if* your area's still open\" where it sounds like \"See eye-eff.\" This is a key detail. I'm checking the captions for a transcription error, and comparing it with the audio to confirm this significant discrepancy."
+    },
+    {
+     "t": "2026-11-24T23:00:30Z",
+     "text": "Examining Vocal Discrepancy"
+    },
+    {
+     "t": "2026-11-24T23:00:30Z",
+     "text": "I've just honed in on MILA's speech at 00:26.2. The audio clearly mispronounces \"if\" as \"eye-eff\" or \"aif\", which is a distinct pronunciation error, confirmed through careful listening. There are no captions for the phrase from 26.0s to 30.0s, aligning with r11 fix #3. I am now proceeding to verify the end card."
+    },
+    {
+     "t": "2026-11-24T23:00:34Z",
+     "text": "Verifying End Card Details"
+    },
+    {
+     "t": "2026-11-24T23:00:34Z",
+     "text": "I'm now deep-diving into the end card details. It starts at around 26.45s. The card's text includes the MILA logo, \"M.I.L. Cleaners,\" \"See if your area's still open,\" a pulsing red button with \"Check your area now!\", and a disclaimer, lacking a period. Checklist #15 is assessed. MILA gestures with her arms to the side, but does not point before the card's appearance; so this checklist passes. I'm "
+    },
+    {
+     "t": "2026-11-24T23:00:34Z",
+     "text": "now examining her eye movements for an alert."
+    },
+    {
+     "t": "2026-11-24T23:00:37Z",
+     "text": "Checking Visual Placement"
+    },
+    {
+     "t": "2026-11-24T23:00:37Z",
+     "text": "I am now thoroughly examining the end card's visual placement and safe zones, ensuring adherence to the guidelines. I'm focusing on its position in the frame, and noting that the white box of the card itself sits in the bottom third, and also checking for the disclaimer text, and logo. I'm comparing the end card's positioning with checklist requirements and verifying it is well within the acceptab"
+    },
+    {
+     "t": "2026-11-24T23:00:37Z",
+     "text": "le boundaries."
+    },
+    {
+     "t": "2026-11-24T23:00:40Z",
+     "text": "Confirming Visual Details"
+    },
+    {
+     "t": "2026-11-24T23:00:40Z",
+     "text": "I've just assessed a new shot segment. I've noted a transition to a chat message sequence, detailing a booking. I observed MILA pointing to the phone screen, verifying no UI glitches or detached elements. This is a clean pass on those points."
+    },
+    {
+     "t": "2026-11-24T23:00:40Z",
+     "text": "\\n\\n"
+    },
+    {
+     "t": "2026-11-24T23:00:40Z",
+     "text": "I'm now carefully reviewing the stamp shot again, focusing on the visual cue. Marcus's hand withdraws and the sticky notes remain clear, both of which are fine. However, while MILA lifts and slams the stamp, the \"YOURS\" text fails to appear on the note at any point, a clear visual discrepancy."
     }
    ]
   },
