@@ -1,7 +1,7 @@
 {
  "round": "Round 10",
- "updated": "2026-11-24T22:50:00Z",
- "overall_eta": "2026-11-24T23:20:00Z",
+ "updated": "2026-11-24T23:00:00Z",
+ "overall_eta": "2026-11-24T23:15:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -66,39 +66,39 @@
   {
    "name": "V1 r11 pick takes + assemble",
    "start": "2026-11-24T22:49:00Z",
-   "eta": "2026-11-24T23:10:00Z"
+   "end": "2026-11-24T22:59:00Z"
   },
   {
    "name": "Gemini QA V1 r11",
-   "start": "2026-11-24T23:10:00Z",
-   "eta": "2026-11-24T23:20:00Z"
+   "start": "2026-11-24T23:00:00Z",
+   "eta": "2026-11-24T23:06:00Z"
   },
   {
    "name": "V2 r11: new clean-phone take (3 Kling) + quality audio + snap sync",
    "start": "2026-11-24T22:46:00Z",
-   "eta": "2026-11-24T23:05:00Z"
+   "eta": "2026-11-24T23:06:00Z"
   },
   {
    "name": "Gemini QA V2 r11",
-   "start": "2026-11-24T23:05:00Z",
-   "eta": "2026-11-24T23:15:00Z"
+   "start": "2026-11-24T23:06:00Z",
+   "eta": "2026-11-24T23:13:00Z"
   }
  ],
  "videos": [
   {
    "name": "V1 \u00b7 Marcus",
-   "stage": "Checking 7 new takes (Whisper)",
+   "stage": "r11 ready, Gemini QA running",
    "start": "2026-11-24T22:05:00Z",
-   "eta": "2026-11-24T23:20:00Z",
+   "eta": "2026-11-24T23:06:00Z",
    "qa": "pending",
-   "note": "Phone app kept; fixing note, rings, if, caption timing",
+   "note": "New stamp + ending takes, words exact (rings, if)",
    "end": "2026-11-24T22:21:00Z"
   },
   {
    "name": "V2 \u00b7 Dani",
-   "stage": "r11: re-shooting phone shot, fixing quality + snap",
+   "stage": "r11 assembling (new clean phone take picked)",
    "start": "2026-11-24T22:02:00Z",
-   "eta": "2026-11-24T23:15:00Z",
+   "eta": "2026-11-24T23:13:00Z",
    "qa": "FAIL",
    "note": "Asaf notes: quality, glove snap sync, phone look"
   },
