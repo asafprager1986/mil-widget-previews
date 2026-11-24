@@ -1,0 +1,11 @@
+{"round":"Round 9","updated":"2026-11-24T21:12:00Z","overall_eta":"2026-11-24T21:25:00Z",
+"steps":[
+{"name":"Edit fixes","start":"2026-11-24T20:42:00Z","end":"2026-11-24T20:47:00Z"},
+{"name":"New Kling takes","start":"2026-11-24T20:42:00Z","end":"2026-11-24T21:05:00Z"},
+{"name":"Pick + swap takes","start":"2026-11-24T21:08:00Z","end":"2026-11-24T21:12:00Z"},
+{"name":"Re-render","start":"2026-11-24T20:42:00Z","end":"2026-11-24T20:47:00Z"},
+{"name":"Gemini re-QA","start":"2026-11-24T21:13:00Z","eta":"2026-11-24T21:25:00Z"}],
+"videos":[
+{"name":"V1 · Marcus","stage":"Gemini re-QA","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T21:25:00Z","qa":"pending","note":"30.0s, script exact, Marcus says 'So next time it rings?'"},
+{"name":"V2 · Dani","stage":"Gemini re-QA","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T21:25:00Z","qa":"pending","note":"New snap takes garbled words, kept the clean one"},
+{"name":"V3 · Lucía","stage":"Gemini re-QA","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T21:25:00Z","qa":"pending","note":"New circle takes no better, kept the clean one"}]}
