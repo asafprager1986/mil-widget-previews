@@ -1,11 +1,11 @@
-{"round":"Round 9","updated":"2026-11-24T21:53:00Z","overall_eta":"2026-11-24T22:08:00Z",
+{"round":"Round 9","updated":"2026-11-24T21:56:00Z","overall_eta":"2026-11-24T22:05:00Z",
 "steps":[
 {"name":"Edit fixes","start":"2026-11-24T20:42:00Z","end":"2026-11-24T20:47:00Z"},
 {"name":"Fix pass (VO timing, 'franchise', push-in)","start":"2026-11-24T21:15:00Z","end":"2026-11-24T21:19:00Z"},
-{"name":"V3 clean map + circle takes","start":"2026-11-24T21:16:00Z","end":"2026-11-24T21:52:00Z"},
-{"name":"V3 render with new circle","start":"2026-11-24T21:52:00Z","eta":"2026-11-24T21:56:00Z"},
-{"name":"Gemini re-QA (final)","start":"2026-11-24T21:57:00Z","eta":"2026-11-24T22:08:00Z"}],
+{"name":"V3 clean map + live circle","start":"2026-11-24T21:16:00Z","end":"2026-11-24T21:55:00Z"},
+{"name":"Final files to project (r9c)","start":"2026-11-24T21:55:00Z","end":"2026-11-24T21:56:00Z"},
+{"name":"Gemini QA (info only, no more renders)","start":"2026-11-24T21:56:00Z","eta":"2026-11-24T22:05:00Z"}],
 "videos":[
-{"name":"V1 · Marcus","stage":"Rendered, waiting for Gemini","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T22:08:00Z","qa":"pending","note":"30.0s; VO ends before Marcus is on camera"},
-{"name":"V2 · Dani","stage":"Rendered, waiting for Gemini","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T22:08:00Z","qa":"pending","note":"30.0s; 'franchise' now clean (Whisper)"},
-{"name":"V3 · Lucía","stage":"Rendering new circle shot","start":"2026-11-24T21:15:00Z","eta":"2026-11-24T22:08:00Z","qa":"pending","note":"Circle now drawn live (take b58f7d7d)"}]}
+{"name":"V1 · Marcus","stage":"Final, Gemini QA running","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T22:05:00Z","qa":"pending","note":"30.0s, ready to watch"},
+{"name":"V2 · Dani","stage":"Final, Gemini QA running","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T22:05:00Z","qa":"pending","note":"30.0s, ready to watch"},
+{"name":"V3 · Lucía","stage":"Final, Gemini QA running","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T22:05:00Z","qa":"pending","note":"30.0s, circle drawn live"}]}
