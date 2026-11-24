@@ -1,19 +1,11 @@
 {
- "updated": "2026-11-24T23:14:34Z",
+ "updated": "2026-11-24T23:14:36Z",
  "runs": [
   {
    "video": "V2 Dani r12",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-24T23:13:36Z",
    "log": [
-    {
-     "t": "2026-11-24T23:13:55Z",
-     "text": "I'm now zeroing in on specific segments to meticulously verify details. At ~1.7s, MILA blinks naturally, both eyes remain open. I'm confirming Dani's polo logo reads \"MIL Cleaners.\" The captions, \"EVERY CLEANING FRANCHISE SAYS QUALITY,\" appear centered, within the safe zone. Subsequently, I'm analyzing the 2.90-5.40s sequence: I confirmed MILA's position on the table with a nod/smile, followed by "
-    },
-    {
-     "t": "2026-11-24T23:13:55Z",
-     "text": "her stance on the step ladder, and her pointing at the ceiling fan blade. All observed details will support the JSON."
-    },
     {
      "t": "2026-11-24T23:13:59Z",
      "text": "Examining the Sequence"
@@ -165,8 +157,17 @@
     {
      "t": "2026-11-24T23:14:34Z",
      "text": " I will be ready to output the final JSON output."
+    },
+    {
+     "t": "2026-11-24T23:14:36Z",
+     "text": "Verdict FAIL. VO diff: 'area is' -> \"area's\" | 17.6-20.0s 6. Phone UI / 11. Props show VO: Phone stays on 'Getting your price...' and never transitions to the green 'Flat price' card. | 27.8-28.6s 7. Lips vs audio: Dani holds a closed-mouth smile while VO says 'your area's still open'. | 28.0-30.0s 11. Garbled text / prop morph: Checkboxes below 'Spots' vanish and 'Shower track' morphs into 'Showe"
+    },
+    {
+     "t": "2026-11-24T23:14:36Z",
+     "text": "r crack'."
     }
-   ]
+   ],
+   "finished": "2026-11-24T23:14:36Z"
   },
   {
    "video": "V1 Marcus r11b",
