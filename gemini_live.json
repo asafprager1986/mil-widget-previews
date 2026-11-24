@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T23:07:58Z",
+ "updated": "2026-11-24T23:08:09Z",
  "runs": [
   {
    "video": "V1 Marcus r11b",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-24T23:07:16Z",
    "log": [
     {
@@ -117,8 +117,33 @@
     {
      "t": "2026-11-24T23:07:58Z",
      "text": "I'm now zeroing in on Shot 4, specifically the stamp action. I've re-examined the video and have found an explicit failure regarding the stamp lift. I have confirmed MILA *does not* lift the stamp and the \"YOURS\" imprint is not revealed as required, which means that I'm declaring a critical failure. I will proceed to the next shot."
+    },
+    {
+     "t": "2026-11-24T23:08:01Z",
+     "text": "Confirming Additional Details"
+    },
+    {
+     "t": "2026-11-24T23:08:01Z",
+     "text": "I'm now cross-referencing the remaining requirements with Shot 4 and Shot 5. I've re-examined the sticky notes and confirmed their presence and text. I've analyzed MILA's footsteps, apron, and the end card. I've also reconfirmed her gesture and timing related to the CTA button, now confirming it is timed correctly. I am now confirming the absence of a phone number on the end card. I'm now verifyin"
+    },
+    {
+     "t": "2026-11-24T23:08:01Z",
+     "text": "g all actions are motivated, and there's nothing else that fails."
+    },
+    {
+     "t": "2026-11-24T23:08:04Z",
+     "text": "Assessing Sound & Zoom"
+    },
+    {
+     "t": "2026-11-24T23:08:04Z",
+     "text": "I'm now diving into the specifics of the zoom effect at the video's start and the phone SFX at the video's start. I've noted a gentle zoom and a very faint buzz at the beginning. I've also identified key timestamps for Shot 4 and have reviewed the captions, and I'm analyzing the size change of MILA across shots and confirmed these size discrepancies."
+    },
+    {
+     "t": "2026-11-24T23:08:09Z",
+     "text": "Verdict FAIL. VO diff: 'rings' -> 'chrings'; 'if' -> 'aif' | 21.2-22.0s r11b fix (2) / #11 Props show VO: MILA slams the stamp at 21.2s but never lifts it before the cut; red 'YOURS' print is never revealed. | 8.5-22.0s #4 Constant size: MILA shrinks across cuts\u2014shoulder-sized at 8.5-17.3s and smaller than Marcus's hand at 17.3-22.0s compared to counter-sized in shots 1, 2, and 5."
     }
-   ]
+   ],
+   "finished": "2026-11-24T23:08:09Z"
   },
   {
    "video": "V2 Dani r11",
