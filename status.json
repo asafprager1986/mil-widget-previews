@@ -1,6 +1,6 @@
 {
  "round": "Round 10",
- "updated": "2026-11-24T22:13:00Z",
+ "updated": "2026-11-24T22:24:00Z",
  "overall_eta": "2026-11-24T22:45:00Z",
  "steps": [
   {
@@ -31,31 +31,37 @@
   {
    "name": "V2 pick takes (Whisper word check) + assemble",
    "start": "2026-11-24T22:13:00Z",
-   "eta": "2026-11-24T22:30:00Z"
+   "eta": "2026-11-24T22:32:00Z"
   },
   {
    "name": "V1 r10 assemble",
    "start": "2026-11-24T22:12:00Z",
-   "eta": "2026-11-24T22:18:00Z"
+   "end": "2026-11-24T22:15:00Z"
   },
   {
-   "name": "Gemini QA V1+V2 r10",
-   "start": "2026-11-24T22:30:00Z",
+   "name": "Gemini QA V1 r10",
+   "start": "2026-11-24T22:17:00Z",
+   "end": "2026-11-24T22:21:00Z"
+  },
+  {
+   "name": "Gemini QA V2 r10",
+   "start": "2026-11-24T22:32:00Z",
    "eta": "2026-11-24T22:45:00Z"
   }
  ],
  "videos": [
   {
    "name": "V1 \u00b7 Marcus",
-   "stage": "Phone app fix: assembling r10",
+   "stage": "r10 ready for review (phone app rebuilt)",
    "start": "2026-11-24T22:05:00Z",
-   "eta": "2026-11-24T22:45:00Z",
-   "qa": "pending",
-   "note": "New realistic app UI composited on phone"
+   "eta": "2026-11-24T22:21:00Z",
+   "qa": "PASS phone shot",
+   "note": "Gemini: phone shot PASS; old r9c notes remain",
+   "end": "2026-11-24T22:21:00Z"
   },
   {
    "name": "V2 \u00b7 Dani",
-   "stage": "Takes ready, checking words",
+   "stage": "Assembling r10 (new takes + tracked phone screen)",
    "start": "2026-11-24T22:02:00Z",
    "eta": "2026-11-24T22:45:00Z",
    "qa": "pending",
