@@ -1,11 +1,58 @@
-{"round":"Round 9","updated":"2026-11-24T21:56:00Z","overall_eta":"2026-11-24T22:05:00Z",
-"steps":[
-{"name":"Edit fixes","start":"2026-11-24T20:42:00Z","end":"2026-11-24T20:47:00Z"},
-{"name":"Fix pass (VO timing, 'franchise', push-in)","start":"2026-11-24T21:15:00Z","end":"2026-11-24T21:19:00Z"},
-{"name":"V3 clean map + live circle","start":"2026-11-24T21:16:00Z","end":"2026-11-24T21:55:00Z"},
-{"name":"Final files to project (r9c)","start":"2026-11-24T21:55:00Z","end":"2026-11-24T21:56:00Z"},
-{"name":"Gemini QA (info only, no more renders)","start":"2026-11-24T21:56:00Z","eta":"2026-11-24T22:05:00Z"}],
-"videos":[
-{"name":"V1 · Marcus","stage":"Final, Gemini QA running","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T22:05:00Z","qa":"pending","note":"30.0s, ready to watch"},
-{"name":"V2 · Dani","stage":"Final, Gemini QA running","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T22:05:00Z","qa":"pending","note":"30.0s, ready to watch"},
-{"name":"V3 · Lucía","stage":"Final, Gemini QA running","start":"2026-11-24T20:42:00Z","eta":"2026-11-24T22:05:00Z","qa":"pending","note":"30.0s, circle drawn live"}]}
+{
+ "round": "Round 9",
+ "updated": "2026-11-24T21:58:00Z",
+ "overall_eta": "2026-11-24T21:58:00Z",
+ "steps": [
+  {
+   "name": "Edit fixes",
+   "start": "2026-11-24T20:42:00Z",
+   "end": "2026-11-24T20:47:00Z"
+  },
+  {
+   "name": "Fix pass (VO timing, 'franchise', push-in)",
+   "start": "2026-11-24T21:15:00Z",
+   "end": "2026-11-24T21:19:00Z"
+  },
+  {
+   "name": "V3 clean map + live circle",
+   "start": "2026-11-24T21:16:00Z",
+   "end": "2026-11-24T21:55:00Z"
+  },
+  {
+   "name": "Final files to project (r9c)",
+   "start": "2026-11-24T21:55:00Z",
+   "end": "2026-11-24T21:56:00Z"
+  },
+  {
+   "name": "Gemini QA (info only, no more renders)",
+   "start": "2026-11-24T21:56:00Z",
+   "end": "2026-11-24T21:56:00Z"
+  }
+ ],
+ "videos": [
+  {
+   "name": "V1 \u00b7 Marcus",
+   "stage": "Ready for Asaf review",
+   "start": "2026-11-24T20:42:00Z",
+   "eta": "2026-11-24T21:58:00Z",
+   "qa": "FAIL",
+   "note": "Asaf r9 notes all pass; Gemini nits: 'rings'/'if' VO, note blink 17.6, caption early 23.0"
+  },
+  {
+   "name": "V2 \u00b7 Dani",
+   "stage": "Ready for Asaf review",
+   "start": "2026-11-24T20:42:00Z",
+   "eta": "2026-11-24T21:58:00Z",
+   "qa": "FAIL",
+   "note": "Gemini nits: 'quality' cut at 2.4, MILA waves not snaps, size changes across cuts"
+  },
+  {
+   "name": "V3 \u00b7 Luc\u00eda",
+   "stage": "Ready for Asaf review",
+   "start": "2026-11-24T20:42:00Z",
+   "eta": "2026-11-24T21:58:00Z",
+   "qa": "FAIL",
+   "note": "Circle now draws live; Gemini nits: stopwatch 4.8-6.5, MILA size on counter"
+  }
+ ]
+}
