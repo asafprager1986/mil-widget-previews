@@ -1,31 +1,11 @@
 {
- "updated": "2026-11-24T23:00:56Z",
+ "updated": "2026-11-24T23:01:03Z",
  "runs": [
   {
    "video": "V1 Marcus r11",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-24T22:59:43Z",
    "log": [
-    {
-     "t": "2026-11-24T23:00:03Z",
-     "text": "I've carefully examined the character interactions. MILA is depicted with curlers, a teacup, and a \"ALREADY BOOKED\" note, referencing a 9 p.m. call. I noted the clock at 9:00. I confirmed lip sync accuracy for Marcus's dialogue and verified hand positions. I then moved on to analyzing a subsequent cut from 00:08.8 to 00:11.25, focusing on character positioning, dialogue, and captions, noting the b"
-    },
-    {
-     "t": "2026-11-24T23:00:03Z",
-     "text": "ack of Marcus's phone and MILA's shoulder perch."
-    },
-    {
-     "t": "2026-11-24T23:00:06Z",
-     "text": "Examining Perspective Carefully"
-    },
-    {
-     "t": "2026-11-24T23:00:06Z",
-     "text": "I'm now carefully examining the size consistency of MILA across different shots, particularly focusing on perspective. I'm investigating how her apparent size changes relative to her surroundings, like Marcus's hand and sticky notes. I'm also considering potential rule violations and need to ensure all shots are accurately assessed."
-    },
-    {
-     "t": "2026-11-24T23:00:10Z",
-     "text": "Prioritizing Crucial Failures"
-    },
     {
      "t": "2026-11-24T23:00:10Z",
      "text": "I'm now checking for the most significant issues first. In shot 6 (21.96-30.0s), I thought MILA grew, but now realize she's walking forward along the counter, impacting perspective. Next, I checked from 00:11.25-00:17.29 to verify the r11 fix #1: Marcus's phone UI showed clean tracking, with dark mode and a booking confirmation. Captions and dialogue matched, with minor overlap issues in the text "
@@ -165,8 +145,29 @@
     {
      "t": "2026-11-24T23:00:56Z",
      "text": "I'm now carefully examining Marcus from 25.5s to the end. I'm noting his extremely static and frozen smile while MILA delivers the call-to-action, which is a clear violation of the \"static people\" rule. This is a significant issue. I've also checked caption spelling and safe zones and all is well."
+    },
+    {
+     "t": "2026-11-24T23:00:58Z",
+     "text": "Confirming Text Accuracy"
+    },
+    {
+     "t": "2026-11-24T23:00:58Z",
+     "text": "I'm now cross-referencing all text elements, like captions and the disclaimer, ensuring accurate spelling and safe zone placement. My current focus is verifying correct transcriptions. I've confirmed all dialogue is correctly spelled and within the safe zone, including the disclaimer. However, I've noted a missing period at the end of the disclaimer text on the end card. I will now re-check the st"
+    },
+    {
+     "t": "2026-11-24T23:00:58Z",
+     "text": "amp shot."
+    },
+    {
+     "t": "2026-11-24T23:01:03Z",
+     "text": "Verdict FAIL. VO diff: 'rings' -> 'chrings'; 'if' -> 'eye f' | 21.25-21.96s Props show VO / r11 fix #2: Stamp never lifts after slamming down; 'YOURS' is never revealed on the blank note. | 26.3-26.6s VO pronunciation / r11 fix #3: MILA mispronounces 'if' as 'I-F' ('See eye-eff your area's still open'). | 17.29-21.96s Constant size (#4): MILA shrinks to roughly hand-sized beside Marcus's hand comp"
+    },
+    {
+     "t": "2026-11-24T23:01:03Z",
+     "text": "ared to surrounding shots. | 25.5-30.0s Static people (#13): Marcus holds a nearly frozen smile in the background during MILA's closing lines."
     }
-   ]
+   ],
+   "finished": "2026-11-24T23:01:03Z"
   },
   {
    "video": "V2 Dani r10b",
