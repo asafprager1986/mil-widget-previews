@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:00:10Z",
+ "updated": "2026-11-24T23:00:26Z",
  "runs": [
   {
    "video": "V1 Marcus r11",
@@ -57,6 +57,50 @@
     {
      "t": "2026-11-24T23:00:10Z",
      "text": "on Marcus's shirt. I will move on to the next segment."
+    },
+    {
+     "t": "2026-11-24T23:00:13Z",
+     "text": "Verifying Stamp Consistency"
+    },
+    {
+     "t": "2026-11-24T23:00:13Z",
+     "text": "I've just finished a focused analysis of the stamp shot, from 00:17.29 to 00:21.96. The focus was r11 fix #2. I've noted Marcus's hand interaction with sticky notes, and MILA\u2019s actions with the wooden stamp: Lifting it, slamming it down. Upon close inspection, I realize the \"YOURS\" text reveal is missing. The stamp remains planted on the blank sticky note, a crucial point of concern, as the fix wa"
+    },
+    {
+     "t": "2026-11-24T23:00:13Z",
+     "text": "s not implemented in the correct manner."
+    },
+    {
+     "t": "2026-11-24T23:00:16Z",
+     "text": "Confirming Fix Inconsistencies"
+    },
+    {
+     "t": "2026-11-24T23:00:16Z",
+     "text": "I've just revisited the stamp shot from 00:17.29 to 00:21.96. The absence of the \"YOURS\" reveal is a significant failure, as the stamp remains pressed down. Even though captions and audio confirm the text, the visual element fails. Also, all the notes on the sticky notes remained clear and visible throughout, confirming their adherence to the checklist."
+    },
+    {
+     "t": "2026-11-24T23:00:20Z",
+     "text": "Assessing Visual Accuracy"
+    },
+    {
+     "t": "2026-11-24T23:00:20Z",
+     "text": "I'm now carefully examining the visual relationship between MILA and Marcus within the new shot from 00:21.96 to 00:30.00, in particular, MILA's size and Marcus's hand. I'm noting MILA's smaller relative size compared to Marcus's hand as a potential violation. I'm scrutinizing their dialogue, and synchronicity of the audio and captions. The \"rings\" dialogue sounds complete."
+    },
+    {
+     "t": "2026-11-24T23:00:23Z",
+     "text": "Evaluating Motion Precision"
+    },
+    {
+     "t": "2026-11-24T23:00:23Z",
+     "text": "I'm now focused on MILA's movement from 00:22.0s to 00:25.0s, and its implications. At 24.0s her shoe's placement on the counter is confirmed. I'm also now scrutinizing Marcus, from 24.5s to 30.0s, checking for adherence to Checklist #13, specifically the \"static people\" rule. I'm looking to confirm if he exhibits any movement during the scene."
+    },
+    {
+     "t": "2026-11-24T23:00:26Z",
+     "text": "Scrutinizing Speech Issues"
+    },
+    {
+     "t": "2026-11-24T23:00:26Z",
+     "text": "I'm now zeroing in on MILA's speech from 26.2 to 27.5 seconds. I noticed a distinct pronunciation error in \"See *if* your area's still open\" where it sounds like \"See eye-eff.\" This is a key detail. I'm checking the captions for a transcription error, and comparing it with the audio to confirm this significant discrepancy."
     }
    ]
   },
