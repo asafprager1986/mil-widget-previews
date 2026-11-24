@@ -1,7 +1,7 @@
 {
- "round": "Round 9",
- "updated": "2026-11-24T22:03:00Z",
- "overall_eta": "2026-11-24T22:40:00Z",
+ "round": "Round 10",
+ "updated": "2026-11-24T22:13:00Z",
+ "overall_eta": "2026-11-24T22:45:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -19,35 +19,45 @@
    "end": "2026-11-24T21:59:30Z"
   },
   {
-   "name": "V2 re-shoot: 9 new Kling takes (3 shots x 3)",
+   "name": "V2 re-shoot: 9 new Kling takes",
    "start": "2026-11-24T22:02:00Z",
-   "eta": "2026-11-24T22:14:00Z"
+   "end": "2026-11-24T22:12:00Z"
   },
   {
-   "name": "V2 pick takes + assemble 30.0s",
-   "start": "2026-11-24T22:14:00Z",
-   "eta": "2026-11-24T22:28:00Z"
+   "name": "V1 phone app rebuilt (real UI, tracked, glass+glare)",
+   "start": "2026-11-24T22:05:00Z",
+   "end": "2026-11-24T22:12:00Z"
   },
   {
-   "name": "V2 Gemini QA",
-   "start": "2026-11-24T22:28:00Z",
-   "eta": "2026-11-24T22:40:00Z"
+   "name": "V2 pick takes (Whisper word check) + assemble",
+   "start": "2026-11-24T22:13:00Z",
+   "eta": "2026-11-24T22:30:00Z"
+  },
+  {
+   "name": "V1 r10 assemble",
+   "start": "2026-11-24T22:12:00Z",
+   "eta": "2026-11-24T22:18:00Z"
+  },
+  {
+   "name": "Gemini QA V1+V2 r10",
+   "start": "2026-11-24T22:30:00Z",
+   "eta": "2026-11-24T22:45:00Z"
   }
  ],
  "videos": [
   {
    "name": "V1 \u00b7 Marcus",
-   "stage": "Kept as is (r9c)",
-   "start": "2026-11-24T22:00:00Z",
-   "eta": "2026-11-24T21:55:00Z",
-   "qa": "FAIL",
-   "note": "No changes per Asaf"
+   "stage": "Phone app fix: assembling r10",
+   "start": "2026-11-24T22:05:00Z",
+   "eta": "2026-11-24T22:45:00Z",
+   "qa": "pending",
+   "note": "New realistic app UI composited on phone"
   },
   {
    "name": "V2 \u00b7 Dani",
-   "stage": "Re-shooting 3 Dani shots",
+   "stage": "Takes ready, checking words",
    "start": "2026-11-24T22:02:00Z",
-   "eta": "2026-11-24T22:40:00Z",
+   "eta": "2026-11-24T22:45:00Z",
    "qa": "pending",
    "note": "New: 'As an owner...', phone line, ending; MILA one size"
   },
