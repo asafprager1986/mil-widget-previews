@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:58:33Z",
+ "updated": "2026-11-25T06:58:46Z",
  "runs": [
   {
    "video": "V2 Dani r12",
@@ -141,9 +141,13 @@
     {
      "t": "2026-11-25T06:58:29Z",
      "text": "Verdict FAIL. VO diff: 'area is' -> \"area's\""
+    },
+    {
+     "t": "2026-11-25T06:58:46Z",
+     "text": "Verdict FAIL. VO diff: 'area is' -> \"area's\""
     }
    ],
-   "finished": "2026-11-25T06:58:29Z"
+   "finished": "2026-11-25T06:58:46Z"
   },
   {
    "video": "V1 Marcus r11b",
@@ -281,9 +285,21 @@
     {
      "t": "2026-11-25T06:58:33Z",
      "text": "I'm now methodically verifying the final asset against the \"Verify ONLY\" criteria. I've confirmed pixel dimensions and duration with ffprobe, passing those checks. Audio synchronization and content integrity have also been verified, and I see no issues. The 9:16 content is intact, with no cropping of MILA, captions, or the end card. The captions and end card button are fully visible."
+    },
+    {
+     "t": "2026-11-25T06:58:35Z",
+     "text": "Finalizing Content Verification"
+    },
+    {
+     "t": "2026-11-25T06:58:35Z",
+     "text": "I've just confirmed the 'Check your area now!' button and disclaimer are visible, within the safe zones, and centered with other captions in the mid-frame. I can verify there are no encoding glitches observed throughout the video. I'm confident that all \"Verify ONLY\" criteria have been fully met, so I'm calling it a PASS."
+    },
+    {
+     "t": "2026-11-25T06:58:37Z",
+     "text": "Verdict PASS."
     }
    ],
-   "finished": "2026-11-25T06:58:28Z"
+   "finished": "2026-11-25T06:58:37Z"
   },
   {
    "video": "V2 Dani r11",
