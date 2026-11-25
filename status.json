@@ -1,7 +1,7 @@
 {
  "round": "Sizes V1 + V2",
- "updated": "2026-11-25T06:58:00Z",
- "overall_eta": "2026-11-25T07:02:00Z",
+ "updated": "2026-11-25T06:59:30Z",
+ "overall_eta": "2026-11-25T06:59:30Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -114,9 +114,14 @@
    "end": "2026-11-25T06:57:00Z"
   },
   {
-   "name": "Gemini QA sizes",
+   "name": "Gemini QA sizes: all 4 PASS (V2 only the approved area is/area's contraction)",
    "start": "2026-11-25T06:58:00Z",
-   "eta": "2026-11-25T07:02:00Z"
+   "end": "2026-11-25T06:59:00Z"
+  },
+  {
+   "name": "V1 + V2 all sizes delivered",
+   "start": "2026-11-25T06:59:30Z",
+   "end": "2026-11-25T06:59:30Z"
   }
  ],
  "videos": [
