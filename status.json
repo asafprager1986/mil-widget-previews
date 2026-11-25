@@ -1,161 +1,57 @@
 {
- "round": "Meta launch",
- "updated": "2026-11-25T07:42:42Z",
- "overall_eta": "2026-11-25T07:42:42Z",
- "steps": [
-  {
-   "name": "Final r9c edits",
-   "start": "2026-11-24T20:42:00Z",
-   "end": "2026-11-24T21:55:00Z"
-  },
-  {
-   "name": "Gemini QA r9c (info)",
-   "start": "2026-11-24T21:56:00Z",
-   "end": "2026-11-24T21:56:00Z"
-  },
-  {
-   "name": "V3 4:5 + 16:9 sizes",
-   "start": "2026-11-24T21:58:00Z",
-   "end": "2026-11-24T21:59:30Z"
-  },
-  {
-   "name": "V2 re-shoot: 9 new Kling takes",
-   "start": "2026-11-24T22:02:00Z",
-   "end": "2026-11-24T22:12:00Z"
-  },
-  {
-   "name": "V1 phone app rebuilt (real UI, tracked, glass+glare)",
-   "start": "2026-11-24T22:05:00Z",
-   "end": "2026-11-24T22:12:00Z"
-  },
-  {
-   "name": "V2 pick takes (Whisper word check) + assemble",
-   "start": "2026-11-24T22:13:00Z",
-   "end": "2026-11-24T22:29:00Z"
-  },
-  {
-   "name": "V1 r10 assemble",
-   "start": "2026-11-24T22:12:00Z",
-   "end": "2026-11-24T22:15:00Z"
-  },
-  {
-   "name": "Gemini QA V1 r10",
-   "start": "2026-11-24T22:17:00Z",
-   "end": "2026-11-24T22:21:00Z"
-  },
-  {
-   "name": "Gemini QA V2 r10",
-   "start": "2026-11-24T22:30:00Z",
-   "end": "2026-11-24T22:33:00Z"
-  },
-  {
-   "name": "V2 r10b quick fixes (checklist text + quality audio)",
-   "start": "2026-11-24T22:35:00Z",
-   "end": "2026-11-24T22:41:00Z"
-  },
-  {
-   "name": "Gemini QA V2 r10b",
-   "start": "2026-11-24T22:42:00Z",
-   "end": "2026-11-24T22:43:00Z"
-  },
-  {
-   "name": "V1 fix-all: 7 new Kling takes (stamp x3, ending x4)",
-   "start": "2026-11-24T22:40:00Z",
-   "end": "2026-11-24T22:48:00Z"
-  },
-  {
-   "name": "V1 r11 pick takes + assemble",
-   "start": "2026-11-24T22:49:00Z",
-   "end": "2026-11-24T22:59:00Z"
-  },
-  {
-   "name": "Gemini QA V1 r11 (FAIL: stamp reveal, rings/if diction)",
-   "start": "2026-11-24T23:00:00Z",
-   "end": "2026-11-24T23:01:00Z"
-  },
-  {
-   "name": "V2 r11: new clean-phone take (3 Kling) + quality audio + snap sync",
-   "start": "2026-11-24T22:46:00Z",
-   "end": "2026-11-24T23:03:00Z"
-  },
-  {
-   "name": "Gemini QA V2 r11 (FAIL: phone text smudged at 540p, rest fixed)",
-   "start": "2026-11-24T23:05:00Z",
-   "end": "2026-11-24T23:06:00Z"
-  },
-  {
-   "name": "V1 r11b: stamp reveal held + ending re-timed",
-   "start": "2026-11-24T23:01:00Z",
-   "end": "2026-11-24T23:05:00Z"
-  },
-  {
-   "name": "Gemini QA V1 r11b (rings/if diction flagged; YOURS reveal verified by frames)",
-   "start": "2026-11-24T23:07:00Z",
-   "end": "2026-11-24T23:08:00Z"
-  },
-  {
-   "name": "V2 r12: bigger phone app text + push-in on phone shot",
-   "start": "2026-11-24T23:09:00Z",
-   "end": "2026-11-24T23:13:00Z"
-  },
-  {
-   "name": "Gemini QA V2 r12 (phone PASS on full-res; lip/clipboard flags checked = proxy misses)",
-   "start": "2026-11-24T23:14:00Z",
-   "end": "2026-11-24T23:15:00Z"
-  },
-  {
-   "name": "V1 r11b + V2 r12 ready for Asaf review (9:16)",
-   "start": "2026-11-24T23:17:00Z",
-   "end": "2026-11-24T23:17:00Z"
-  },
-  {
-   "name": "V1 + V2 4:5 and 16:9 sizes (Asaf approved masters)",
-   "start": "2026-11-25T06:55:00Z",
-   "end": "2026-11-25T06:57:00Z"
-  },
-  {
-   "name": "Gemini QA sizes: all 4 PASS (V2 only the approved area is/area's contraction)",
-   "start": "2026-11-25T06:58:00Z",
-   "end": "2026-11-25T06:59:00Z"
-  },
-  {
-   "name": "V1 + V2 all sizes delivered",
-   "start": "2026-11-25T06:59:30Z",
-   "end": "2026-11-25T06:59:30Z"
-  },
-  {
-   "name": "Published + activated: campaign, ad set, 6 ads Pid21-26 ACTIVE (ads in Meta review)",
-   "start": "2026-11-25T07:42:42Z",
-   "end": "2026-11-25T07:42:42Z"
-  }
- ],
+ "round": "Engine bake-off",
+ "overall_eta": "2026-11-25T08:55:00Z",
  "videos": [
   {
-   "name": "V1 \u00b7 Marcus",
-   "stage": "r11 ready, Gemini QA running",
-   "start": "2026-11-24T22:05:00Z",
-   "eta": "2026-11-24T23:06:00Z",
+   "name": "Kling 4.0",
+   "stage": "rendering 3 shots",
+   "start": "2026-11-25T08:04:00Z",
+   "eta": "2026-11-25T08:30:00Z",
    "qa": "pending",
-   "note": "New stamp + ending takes, words exact (rings, if)",
-   "end": "2026-11-24T22:21:00Z"
+   "note": "baseline, 67.5 cr"
   },
   {
-   "name": "V2 \u00b7 Dani",
-   "stage": "r11 assembling (new clean phone take picked)",
-   "start": "2026-11-24T22:02:00Z",
-   "eta": "2026-11-24T23:13:00Z",
-   "qa": "FAIL",
-   "note": "Asaf notes: quality, glove snap sync, phone look"
+   "name": "Seedance 2.5",
+   "stage": "rendering 3 shots",
+   "start": "2026-11-25T08:04:00Z",
+   "eta": "2026-11-25T08:30:00Z",
+   "qa": "pending",
+   "note": "288 cr"
   },
   {
-   "name": "V3 \u00b7 Luc\u00eda",
-   "stage": "APPROVED, all 3 sizes done",
-   "start": "2026-11-24T20:42:00Z",
-   "end": "2026-11-24T21:59:30Z",
-   "eta": "2026-11-24T21:59:30Z",
-   "qa": "APPROVED",
-   "note": "9:16, 4:5, 16:9 in edits_r7"
+   "name": "Gemini Omni Flash 1.2",
+   "stage": "rendering 3 shots",
+   "start": "2026-11-25T08:04:00Z",
+   "eta": "2026-11-25T08:30:00Z",
+   "qa": "pending",
+   "note": "58.5 cr"
+  },
+  {
+   "name": "MAGI-2",
+   "stage": "rendering 3 shots",
+   "start": "2026-11-25T08:04:00Z",
+   "eta": "2026-11-25T08:30:00Z",
+   "qa": "pending",
+   "note": "45 cr"
   }
  ],
- "note": "LIVE: campaign $250/day ACTIVE, ad set ACTIVE, 6 ads ACTIVE, in Meta review (In process)."
+ "steps": [
+  {
+   "name": "Estimate + Asaf go (460 cr)",
+   "start": "2026-11-25T07:52:00Z",
+   "end": "2026-11-25T08:01:50Z"
+  },
+  {
+   "name": "12 renders (4 engines x 3 shots)",
+   "start": "2026-11-25T08:04:00Z"
+  },
+  {
+   "name": "Gemini side-by-side QA"
+  },
+  {
+   "name": "Grid video + scorecard + recommendation"
+  }
+ ],
+ "note": "Same start frame + prompt per shot on every engine. Words tested: quality, rang, area.",
+ "updated": "2026-11-25T08:03:21Z"
 }
