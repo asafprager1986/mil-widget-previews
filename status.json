@@ -1,7 +1,7 @@
 {
  "round": "1080x1080 full-frame redo (Pid24-26)",
- "updated": "2026-11-25T15:16:37Z",
- "overall_eta": "2026-11-25T16:16:37Z",
+ "updated": "2026-11-25T15:26:24Z",
+ "overall_eta": "2026-11-25T15:26:24Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -139,9 +139,14 @@
    "end": "2026-11-25T15:14:11Z"
   },
   {
-   "name": "Rebuilding 1:1 as true full frame (per-shot reframe, square captions + end card)",
+   "name": "1:1 full-frame crops built (per-shot crop, CTA card moved into square), replaced on Drive",
    "start": "2026-11-25T15:16:37Z",
-   "end": "2026-11-25T16:16:37Z"
+   "end": "2026-11-25T15:26:24Z"
+  },
+  {
+   "name": "Gemini QA 1:1 (key not visible in this session yet)",
+   "start": "2026-11-25T15:26:24Z",
+   "end": "2026-11-25T15:26:24Z"
   }
  ],
  "videos": [
@@ -172,5 +177,5 @@
    "note": "9:16, 4:5, 16:9 in edits_r7"
   }
  ],
- "note": "Asaf wants full-frame squares, no blurred edges. Reframing every shot and re-laying captions and end card for 1:1."
+ "note": "Full-frame 1:1 versions done and replaced on Drive (same links). Gemini QA waiting on the key."
 }
