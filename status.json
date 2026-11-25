@@ -1,7 +1,7 @@
 {
  "round": "1080x1080 full-frame redo (Pid24-26)",
- "updated": "2026-11-25T15:26:24Z",
- "overall_eta": "2026-11-25T15:26:24Z",
+ "updated": "2026-11-25T15:57:06Z",
+ "overall_eta": "2026-11-25T15:57:06Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -147,6 +147,11 @@
    "name": "Gemini QA 1:1 (key not visible in this session yet)",
    "start": "2026-11-25T15:26:24Z",
    "end": "2026-11-25T15:26:24Z"
+  },
+  {
+   "name": "1:1 crops confirmed on Drive + Registry rows 102-104 updated (Gemini QA FAIL: cropped props)",
+   "start": "2026-11-25T15:57:06Z",
+   "end": "2026-11-25T15:57:06Z"
   }
  ],
  "videos": [
@@ -177,5 +182,5 @@
    "note": "9:16, 4:5, 16:9 in edits_r7"
   }
  ],
- "note": "Full-frame 1:1 versions done and replaced on Drive (same links). Gemini QA waiting on the key."
+ "note": "Latest 1:1 full-frame crops are on Drive and in the Registry."
 }
