@@ -1,7 +1,7 @@
 {
- "round": "1080x1080 sizes (Pid24-26)",
- "updated": "2026-11-25T15:14:11Z",
- "overall_eta": "2026-11-25T15:14:11Z",
+ "round": "1080x1080 full-frame redo (Pid24-26)",
+ "updated": "2026-11-25T15:16:37Z",
+ "overall_eta": "2026-11-25T16:16:37Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -137,6 +137,11 @@
    "name": "Gemini QA 1:1 (blocked: QA key missing in cloud env)",
    "start": "2026-11-25T15:14:11Z",
    "end": "2026-11-25T15:14:11Z"
+  },
+  {
+   "name": "Rebuilding 1:1 as true full frame (per-shot reframe, square captions + end card)",
+   "start": "2026-11-25T15:16:37Z",
+   "end": "2026-11-25T16:16:37Z"
   }
  ],
  "videos": [
@@ -167,5 +172,5 @@
    "note": "9:16, 4:5, 16:9 in edits_r7"
   }
  ],
- "note": "1:1 sizes for Pid24-26 done and on Drive. Gemini QA waiting for the API key to be re-added to the cloud environment."
+ "note": "Asaf wants full-frame squares, no blurred edges. Reframing every shot and re-laying captions and end card for 1:1."
 }
