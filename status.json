@@ -1,38 +1,38 @@
 {
  "round": "Engine bake-off",
- "overall_eta": "2026-11-25T10:10:00Z",
+ "overall_eta": "2026-11-25T09:50:00Z",
  "videos": [
   {
    "name": "Kling 4.0",
-   "stage": "rendered, downloading for QA",
+   "stage": "judged",
    "start": "2026-11-25T08:04:00Z",
-   "eta": "2026-11-25T09:40:00Z",
-   "qa": "pending",
-   "note": "baseline, 67.5 cr"
+   "eta": "2026-11-25T09:50:00Z",
+   "qa": "FAIL",
+   "note": "5.4/10, words garbled 2 of 3"
   },
   {
    "name": "Seedance 2.5",
-   "stage": "rendered, downloading for QA",
+   "stage": "judged",
    "start": "2026-11-25T08:04:00Z",
-   "eta": "2026-11-25T09:40:00Z",
-   "qa": "pending",
-   "note": "288 cr"
+   "eta": "2026-11-25T09:50:00Z",
+   "qa": "FAIL",
+   "note": "5.9/10, 96 cr, clipped words"
   },
   {
    "name": "Gemini Omni Flash 1.2",
-   "stage": "rendered, downloading for QA",
+   "stage": "judged",
    "start": "2026-11-25T08:04:00Z",
-   "eta": "2026-11-25T09:40:00Z",
-   "qa": "pending",
-   "note": "58.5 cr"
+   "eta": "2026-11-25T09:50:00Z",
+   "qa": "PASS",
+   "note": "6.3/10 WINNER, clean words 3/3"
   },
   {
    "name": "MAGI-2",
-   "stage": "rendered, downloading for QA",
+   "stage": "judged",
    "start": "2026-11-25T08:04:00Z",
-   "eta": "2026-11-25T09:40:00Z",
-   "qa": "pending",
-   "note": "45 cr"
+   "eta": "2026-11-25T09:50:00Z",
+   "qa": "FAIL",
+   "note": "5.8/10 backup, MILA actions miss"
   }
  ],
  "steps": [
@@ -48,12 +48,15 @@
   },
   {
    "name": "Gemini side-by-side QA",
-   "start": "2026-11-25T09:25:00Z"
+   "start": "2026-11-25T09:25:00Z",
+   "end": "2026-11-25T09:50:00Z"
   },
   {
-   "name": "Grid video + scorecard + recommendation"
+   "name": "Grid video + scorecard + recommendation",
+   "start": "2026-11-25T09:30:00Z",
+   "end": "2026-11-25T09:50:00Z"
   }
  ],
- "note": "All 12 renders done, 0 failed. Pulling clips via Mac (cloud blocked from CDN), then Gemini QA.",
- "updated": "2026-11-25T09:24:07Z"
+ "note": "Done. Recommendation: Gemini Omni Flash 1.2 as main engine (19.5 cr/shot); MAGI-2 backup; drop Kling and Seedance.",
+ "updated": "2026-11-25T09:37:13Z"
 }
