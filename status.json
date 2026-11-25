@@ -1,7 +1,7 @@
 {
- "round": "Sizes V1 + V2",
- "updated": "2026-11-25T06:59:30Z",
- "overall_eta": "2026-11-25T06:59:30Z",
+ "round": "Meta launch",
+ "updated": "2026-11-25T07:42:42Z",
+ "overall_eta": "2026-11-25T07:42:42Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -122,6 +122,11 @@
    "name": "V1 + V2 all sizes delivered",
    "start": "2026-11-25T06:59:30Z",
    "end": "2026-11-25T06:59:30Z"
+  },
+  {
+   "name": "Published + activated: campaign, ad set, 6 ads Pid21-26 ACTIVE (ads in Meta review)",
+   "start": "2026-11-25T07:42:42Z",
+   "end": "2026-11-25T07:42:42Z"
   }
  ],
  "videos": [
@@ -152,5 +157,5 @@
    "note": "9:16, 4:5, 16:9 in edits_r7"
   }
  ],
- "note": "Meta: 6 video ads (Pid21-26) in draft, PAUSED. Registry updated. Awaiting publish."
+ "note": "LIVE: campa50/day ACTIVE, ad set ACTIVE, 6 ads ACTIVE, in Meta review (In process)."
 }
