@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T09:25:56Z",
+ "updated": "2026-11-25T09:26:08Z",
  "runs": [
   {
    "video": "magi_2_C",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-25T09:25:07Z",
    "log": [
     {
@@ -81,8 +81,13 @@
     {
      "t": "2026-11-25T09:25:54Z",
      "text": "I'm now methodically checking against the checklist items. I'm noting critical failures: the extraneous opening shot, the absence of a hook, garbled text on the map, and the missing tap action with the non-existent camera arc. I am confirming Mila's on-model consistency, including limb count and eye status, which I've added to the passes."
+    },
+    {
+     "t": "2026-11-25T09:25:56Z",
+     "text": "Verdict FAIL. 00:00-00:02 Stray opening shot: Unrelated static shot of MILA handing a sticky note precedes the map scene. | 00:00-00:02 Hook: Silent, static opening lacks a dynamic camera move and hook SFX. | 00:02-00:06 Garbled text: Map street labels and legend show illegible AI-garbled text. | 00:04-00:05 Missed action: MILA lowers the marker instead of tapping the drawn circle."
     }
-   ]
+   ],
+   "finished": "2026-11-25T09:25:56Z"
   },
   {
    "video": "magi_2_B",
@@ -229,7 +234,7 @@
   },
   {
    "video": "gemini_omni_flash_1_2_B",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-25T09:25:07Z",
    "log": [
     {
@@ -303,12 +308,25 @@
     {
      "t": "2026-11-25T09:25:56Z",
      "text": "I'm now focusing on discrepancies. I see that at 00:00, MILA has closed eyes and an unusual mouth position, violating checklist #12. The phone is also turned away at this point. Furthermore, at 00:02, the sticky note appears in MILA's hand seemingly out of nowhere, violating checklist #9. The sticky note is blank until the text \"NOT BOOKED\" suddenly appears at 00:03. I must note this."
+    },
+    {
+     "t": "2026-11-25T09:25:59Z",
+     "text": "Determining the Verdict"
+    },
+    {
+     "t": "2026-11-25T09:25:59Z",
+     "text": "I've decided on a verdict. Based on strict QA, I've noted three violations: MILA's pose at 00:00, the sticky note's sudden appearance, and the static camera move early on. Given these, the `usable_range` is `\"none\"` as the core events have clear issues. I am going to stick with `\"none\"`."
+    },
+    {
+     "t": "2026-11-25T09:26:01Z",
+     "text": "Verdict FAIL. VO diff: '' -> 'hmph' | 00:00 12. Faces/mouths: MILA starts with eyes closed and an odd puckered mouth. | 00:02 9. Action continuity: Sticky note materializes in MILA's empty hand and goes from blank to printed text after the slap. | 00:00-00:02 2. Hook: Lacks a dynamic opening camera push; framing stays mostly static."
     }
-   ]
+   ],
+   "finished": "2026-11-25T09:26:01Z"
   },
   {
    "video": "gemini_omni_flash_1_2_A",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-25T09:25:07Z",
    "log": [
     {
@@ -382,8 +400,49 @@
     {
      "t": "2026-11-25T09:25:55Z",
      "text": "I am now focusing on the framing of MILA and assessing potential artifacts. I've noted that her left arm is slightly cropped at the frame's edge. Additionally, I'm checking her hands and facial features to ensure there are no distortions or inconsistencies throughout the video. I've confirmed that her shoes and the background elements remain stable and consistent."
+    },
+    {
+     "t": "2026-11-25T09:25:58Z",
+     "text": "Confirming Final QA"
+    },
+    {
+     "t": "2026-11-25T09:25:58Z",
+     "text": "I'm now methodically verifying the video against the checklist to ensure strict adherence to all criteria. I've confirmed that \"MiL Cleaners\" is consistently legible, though the lowercase \"i\" is a curious detail. Each item is checked, from motivated actions to lens quality, with no failures. All requirements are met or exceeded; no failures are found."
+    },
+    {
+     "t": "2026-11-25T09:26:00Z",
+     "text": "Evaluating Sonic Accuracy"
+    },
+    {
+     "t": "2026-11-25T09:26:01Z",
+     "text": "I'm now zeroing in on the sound effects, specifically the glove action, and I've identified a discrepancy. There's a soft musical chime, not the crisp snap expected with a glove adjustment. The sync is misaligned as well. The logo on the woman's polo is legible. MILA's expressions are natural, as confirmed."
+    },
+    {
+     "t": "2026-11-25T09:26:04Z",
+     "text": "Determining Strict Compliance"
+    },
+    {
+     "t": "2026-11-25T09:26:04Z",
+     "text": "I'm now strictly evaluating against every specified criterion and, so far, there are no failures and I'm continuing my check. I'm focusing on the static elements, shot continuity, and the anatomical accuracy of MILA, and the video's total duration. My assessment reveals no deviations so far. I'm also confirming both MILA and the woman move naturally throughout, with a single continuous shot. I'm r"
+    },
+    {
+     "t": "2026-11-25T09:26:04Z",
+     "text": "eady to make the verdict."
+    },
+    {
+     "t": "2026-11-25T09:26:06Z",
+     "text": "Confirming Usable Sections"
+    },
+    {
+     "t": "2026-11-25T09:26:06Z",
+     "text": "I'm now focusing on the usable segment. Although there's a minor sync issue and a potential music intro, the section from 00:01 to 00:06 is clean and suitable for the video. I've confirmed valid JSON format requirements and reviewed the required fields for accuracy and brevity. I am preparing to output the results."
+    },
+    {
+     "t": "2026-11-25T09:26:08Z",
+     "text": "Verdict FAIL. 00:00-00:02 10. Impact SFX / sync: Glove snaps are out of sync (MILA finishes by 00:01 while the woman keeps adjusting until 00:02) and lack a crisp synced glove-snap SFX. | 00:00-00:01 No music: Soft musical chime/percussion cue plays at the start despite the no-music constraint."
     }
-   ]
+   ],
+   "finished": "2026-11-25T09:26:08Z"
   }
  ]
 }
