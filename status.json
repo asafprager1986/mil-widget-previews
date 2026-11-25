@@ -1,7 +1,7 @@
 {
- "round": "Round 10",
- "updated": "2026-11-24T23:17:00Z",
- "overall_eta": "2026-11-24T23:17:00Z",
+ "round": "Sizes V1 + V2",
+ "updated": "2026-11-25T06:55:00Z",
+ "overall_eta": "2026-11-25T07:04:00Z",
  "steps": [
   {
    "name": "Final r9c edits",
@@ -107,6 +107,16 @@
    "name": "V1 r11b + V2 r12 ready for Asaf review (9:16)",
    "start": "2026-11-24T23:17:00Z",
    "end": "2026-11-24T23:17:00Z"
+  },
+  {
+   "name": "V1 + V2 4:5 and 16:9 sizes (Asaf approved masters)",
+   "start": "2026-11-25T06:55:00Z",
+   "eta": "2026-11-25T06:58:00Z"
+  },
+  {
+   "name": "Gemini QA sizes",
+   "start": "2026-11-25T06:58:00Z",
+   "eta": "2026-11-25T07:03:00Z"
   }
  ],
  "videos": [
