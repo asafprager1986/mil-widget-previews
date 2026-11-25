@@ -1,36 +1,36 @@
 {
  "round": "Engine bake-off",
- "overall_eta": "2026-11-25T08:55:00Z",
+ "overall_eta": "2026-11-25T10:10:00Z",
  "videos": [
   {
    "name": "Kling 4.0",
-   "stage": "rendering 3 shots",
+   "stage": "rendered, downloading for QA",
    "start": "2026-11-25T08:04:00Z",
-   "eta": "2026-11-25T08:30:00Z",
+   "eta": "2026-11-25T09:40:00Z",
    "qa": "pending",
    "note": "baseline, 67.5 cr"
   },
   {
    "name": "Seedance 2.5",
-   "stage": "rendering 3 shots",
+   "stage": "rendered, downloading for QA",
    "start": "2026-11-25T08:04:00Z",
-   "eta": "2026-11-25T08:30:00Z",
+   "eta": "2026-11-25T09:40:00Z",
    "qa": "pending",
    "note": "288 cr"
   },
   {
    "name": "Gemini Omni Flash 1.2",
-   "stage": "rendering 3 shots",
+   "stage": "rendered, downloading for QA",
    "start": "2026-11-25T08:04:00Z",
-   "eta": "2026-11-25T08:30:00Z",
+   "eta": "2026-11-25T09:40:00Z",
    "qa": "pending",
    "note": "58.5 cr"
   },
   {
    "name": "MAGI-2",
-   "stage": "rendering 3 shots",
+   "stage": "rendered, downloading for QA",
    "start": "2026-11-25T08:04:00Z",
-   "eta": "2026-11-25T08:30:00Z",
+   "eta": "2026-11-25T09:40:00Z",
    "qa": "pending",
    "note": "45 cr"
   }
@@ -43,15 +43,17 @@
   },
   {
    "name": "12 renders (4 engines x 3 shots)",
-   "start": "2026-11-25T08:04:00Z"
+   "start": "2026-11-25T08:04:00Z",
+   "end": "2026-11-25T08:30:00Z"
   },
   {
-   "name": "Gemini side-by-side QA"
+   "name": "Gemini side-by-side QA",
+   "start": "2026-11-25T09:25:00Z"
   },
   {
    "name": "Grid video + scorecard + recommendation"
   }
  ],
- "note": "Same start frame + prompt per shot on every engine. Words tested: quality, rang, area.",
- "updated": "2026-11-25T08:03:21Z"
+ "note": "All 12 renders done, 0 failed. Pulling clips via Mac (cloud blocked from CDN), then Gemini QA.",
+ "updated": "2026-11-25T09:24:07Z"
 }
