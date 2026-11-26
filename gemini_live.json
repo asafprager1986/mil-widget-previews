@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:47:15Z",
+ "updated": "2026-11-26T15:47:27Z",
  "runs": [
   {
    "video": "c11",
@@ -61,12 +61,48 @@
     {
      "t": "2026-11-26T15:47:15Z",
      "text": "I've just added an audio analysis and framing check to my ongoing review. I've confirmed upbeat music, a soft pop, and Marcus's voice clearly stating \"Start today\" with appropriate lip-sync. His smile at the end appears correct, too. Additionally, I've checked the 9:16 column for Rule 19, and Marcus's face is where it needs to be. The awkwardly outstretched left hand remains a mystery."
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "Evaluating Framing Consistency"
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "I'm now carefully examining the framing, specifically relating Marcus's position to the 9:16 aspect ratio. It's become clear that cropping to the center 9:16 column would cut off a significant portion of his face \u2013 a clear Rule 19 violation. I'm also now reviewing the positional relationships relative to the center 50% line."
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "I'm also reviewing MILA in the context of Rule 25, focusing on her appearance and confirming that the style is consistent with a 2D cartoon grandma, matching the provided reference perfectly. I'm noting specific details like her grey hair, pink glasses, pearl jewelry, blue dress, pink apron, yellow gloves, and blue heels. I am cross-referencing this to her intended mouth position."
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "Pinpointing Key Discrepancies"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "I've just honed in on several key discrepancies within the clip, particularly between 00:00 and 00:04. MILA's open-tooth smile persists throughout, which is interesting. She's floating above Marcus's arm, violating the \"grounded\" intent. Marcus has a slightly stiff smile. I've noted a static camera, and the folder teleports."
+    },
+    {
+     "t": "2026-11-26T15:47:24Z",
+     "text": "Detecting Visual Anomalies"
+    },
+    {
+     "t": "2026-11-26T15:47:25Z",
+     "text": "I've just observed a significant prop inconsistency between 00:00 and 00:02. The blue folder's scale drastically changes. At 00:00, it's larger than MILA, but by 00:02, it's notably smaller when held by Marcus. I'm also now re-verifying adherence to JSON constraints: only JSON, concise, and no extra text. I'm verifying fail items: MILA floating and the prop jump."
+    },
+    {
+     "t": "2026-11-26T15:47:27Z",
+     "text": "Identifying Video Deficiencies"
+    },
+    {
+     "t": "2026-11-26T15:47:27Z",
+     "text": "I'm now collating the most glaring issues for the report. MILA persistently floats above Marcus's arm, and the blue folder's scale morphs disconcertingly. Furthermore, her open smile is a clear deviation from the request, compounded by the static camera and framing errors that would crop his face. I've noted the passes, and the usable range is none, due to these inconsistencies."
     }
    ]
   },
   {
    "video": "c10",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:46:42Z",
    "log": [
     {
@@ -128,12 +164,45 @@
     {
      "t": "2026-11-26T15:47:13Z",
      "text": "squinted eyes."
+    },
+    {
+     "t": "2026-11-26T15:47:16Z",
+     "text": "Verifying Mila's Actions"
+    },
+    {
+     "t": "2026-11-26T15:47:16Z",
+     "text": "I've confirmed that Mila maintains a static pose after the thumbs-up and that her right eye is winking, matching the reference image but violating the \"no wink\" instruction. I've also noted that the crew member's shirt has a barely legible text. I've further checked the audio, confirming a clear high-five clap and Marcus's voice. Finally, I've checked the instructions to confirm JSON formatting re"
+    },
+    {
+     "t": "2026-11-26T15:47:16Z",
+     "text": "quirements."
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "Summarizing Verdicts"
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "I'm now determining clear failures and short passes based on instructions, aiming for concise summaries. My attention's on reducing verbosity to prioritize high-level descriptions for all rubrics. I've focused on ensuring brevity while still offering meaningful assessments. I'm focusing on the JSON formatting, which I must meet, as it's critical. I'm also ensuring that these evaluations are done w"
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "hile adhering to the user's instructions."
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "Verdict FAIL. 00:00.8-00:04.0 MILA eyes / no wink (#12): MILA winks instead of keeping both eyes open. | 00:00.9-00:04.0 MILA action / static pose (#26): Holds a static double thumbs-up pose instead of waving and animating. | 00:00.0-00:04.0 Camera move / hook (#2): Camera is locked static; missing requested handheld push-in. | 00:00.0-00:04.0 Center 9:16 framing (#19): Both crew members fall outs"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "ide the center 9:16 safe column."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:47:22Z"
   },
   {
    "video": "c09",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:46:42Z",
    "log": [
     {
@@ -195,8 +264,41 @@
     {
      "t": "2026-11-26T15:47:14Z",
      "text": "I'm now consolidating the critical failures. The street labels, such as \"Blue St,\" \"Elm Rd,\" and \"Main St,\" are highly unstable, morphing at 00:00-00:03 into gibberish. The red ink line visibly separates from Mila's marker tip and, crucially, the camera remains almost completely static, not slowly pushing in, despite the intent. I'm noting Mila's float rather than walk."
+    },
+    {
+     "t": "2026-11-26T15:47:18Z",
+     "text": "Assessing Line and Movement"
+    },
+    {
+     "t": "2026-11-26T15:47:18Z",
+     "text": "I'm now focusing on the red oval's bottom line beneath \"TERRITORY\" as MILA and the marker tip glide above the map, which clearly contradicts the intent, with the ink not following the marker's tip at all. The checklist's requirement for MILA to ACT on the surface is not met. The camera also stays static, failing the \"slow push-in\" objective."
+    },
+    {
+     "t": "2026-11-26T15:47:18Z",
+     "text": "{\"verdict\":\"FAIL\",\"fails\":[{\"item\":\"Action continuity\",\"at\":\"00:00-00:01\",\"note\":\"Red oval draws along the bottom while MILA and marker slide above; ink does not follow tip.\"},{\"item\":\"Grounded Acting\",\"at\":\"00:00-00:03\",\"note\":\"MILA floats/glides rather than acting grounded on the map.\"},{\"item\":\"Camera push-in\",\"at\":\"00:00-00:04\",\"note\":\"Camera remains static, no push-in.\"}],\"passes\":[\"short\"],\""
+    },
+    {
+     "t": "2026-11-26T15:47:18Z",
+     "text": "usable_range\":\"\"}"
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "Summarizing Core Failures"
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "I'm now summarizing key failures from my review. Map street labels become gibberish as Mila crosses them. The red line and marker tip show significant tracking failures. Mila clearly floats, moving stiffly instead of grounded. Lastly, the intended camera push-in is absent, and I've noted the static pose."
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "Verdict FAIL. 00:00-00:03 Prop text morphing (#23): Map street names garble, relocate, and disappear as MILA passes over them. | 00:00-00:01 Action continuity (#9): Bottom red oval line draws detached from the marker tip while MILA glides across the top. | 00:00-00:03 MILA floating and stiff acting (#26): MILA floats across the map in a rigid pose rather than grounded cartoon acting. | 00:00-00:04"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": " Static camera (#2): No slow push-in; camera remains locked."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:47:22Z"
   },
   {
    "video": "c08",
@@ -222,12 +324,48 @@
     {
      "t": "2026-11-26T15:47:14Z",
      "text": "I'm now carefully examining the video, frame by frame, to understand Mila's attire. I've noted the blue polka-dot dress, yellow gloves, and blue bow shoes. The movement and placement of the \"TRAINING\" sticky note also require scrutiny, particularly Mila's arm positioning as she places the note. I'm focusing on consistency in the visual data."
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "Scrutinizing the Action"
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "I'm now zeroing in on the video's crucial frames, specifically 00:02-00:03. There are discrepancies in Mila's expressions. Her eyes close completely at 00:02-00:03, contradicting the prompt. The mouth behavior also deviates; it's open smiling at the beginning then closes. Furthermore, the arm/glove positioning at 00:02-00:03 looks distorted, and her lower body subtly morphs as she patting the note"
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "."
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "Assessing Relative Scales"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "I'm now grappling with the visual scaling inconsistencies. At the video's start, Mila's size and the \"TRAINING\" sticky note's relative sizes vary, with a size discrepancy visible as she moves towards the sticky note line. The \"TRAINING\" sticky note morphs in size too. I'm noting also the slow zoom of the camera and its interplay with Mila's scaling. The goal is to accurately represent these size f"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "luctuations. I'm also confirming the intended audio against the actual audio recording in the video."
+    },
+    {
+     "t": "2026-11-26T15:47:25Z",
+     "text": "Investigating Auditory Details"
+    },
+    {
+     "t": "2026-11-26T15:47:25Z",
+     "text": "I'm now carefully analyzing the audio, specifically the sounds of Mila placing the \"TRAINING\" sticky note. I've identified a soft pop/thud at 00:01.8-00:02.0, but no clear paper-pat sound at the patting action. I must ensure I do not misinterpret any audio cues."
+    },
+    {
+     "t": "2026-11-26T15:47:25Z",
+     "text": "I am now investigating framing details, and I've started examining the placement of the three sticky notes (\"LOCAL MARKETING\", \"ONGOING GUIDANCE\", \"TRAINING\") within the frame, and noting they adhere to the CENTER 9:16 rule. \"LOCAL MARKETING\" is around x=27."
     }
    ]
   },
   {
    "video": "c07",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:46:42Z",
    "log": [
     {
@@ -297,12 +435,57 @@
     {
      "t": "2026-11-26T15:47:14Z",
      "text": "I've zeroed in on the core discrepancies. The audio matches Marcus's description, and while the intention was a gentle dolly-in, the camera is completely static. The notepad and logo both have illegible elements. Crucially, MILA's mouth is open in a wide smile, contradicting the explicit prompt. Her render style is more three-dimensional than flat, like a figurine."
+    },
+    {
+     "t": "2026-11-26T15:47:18Z",
+     "text": "Assessing Visual Framing"
+    },
+    {
+     "t": "2026-11-26T15:47:18Z",
+     "text": "I'm now calculating MILA's position within the frame and its implications. Analyzing the percentages, MILA is definitively outside a 9:16 safe crop, being completely cut off on the right! The blurry distortion of her yellow glove during the arm extension is also under review."
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "Confirming Failures and Review"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "I'm synthesizing the identified failures against the JSON requirements. I'm focusing on concisely translating the observed discrepancies into the structured output. I'm prioritizing brevity and ensuring the included notes are factual, succinct, and verifiable. The `JSON` output format is clear. I've re-examined item 19 (Framing) and 19 (camera)."
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "{\"verdict\":\"FAIL\",\"fails\":[{\"item\":\"props_text\",\"at\":\"00:00-00:04\",\"note\":\"Notepad and shirt logo text are garbled or illegible.\"},"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "{\"item\":\"framing_safe_zone\",\"at\":\"00:00-00:04\",\"note\":\"MILA is positioned outside the 9:16 safe crop column.\"},"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "{\"item\":\"camera_move\",\"at\":\"00:00-00:04\",\"note\":\"Camera is static, no gentle dolly-in.\"},"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "{\"item\":\"mila_mouth_style\",\"at\":\"00:00-00:04\",\"note\":\"MILA's mouth is open in a wide smile, not closed.\"}],"
+    },
+    {
+     "t": "2026-11-26T15:47:22Z",
+     "text": "\"passes\":[],\"usable_range\":\"00:00-00:04\"}"
+    },
+    {
+     "t": "2026-11-26T15:47:25Z",
+     "text": "Verdict FAIL. 00:00-00:04 props_text: Notepad shows garbled squiggles instead of legible notes; shirt logo text is blurry. | 00:00-00:04 framing: MILA sits right of the center 9:16 safe column and would be cropped out. | 00:00-00:04 camera_move: Camera is static, missing the requested gentle slow dolly-in. | 00:00-00:04 mila_mouth_and_motion: MILA keeps an open-mouth grin instead of a closed mouth"
+    },
+    {
+     "t": "2026-11-26T15:47:25Z",
+     "text": "; gloves smear briefly around 00:01-00:02. | 00:00-00:04 static_person: Marcus appears nearly frozen aside from slight pen movement."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:47:25Z"
   },
   {
    "video": "c06",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:46:42Z",
    "log": [
     {
@@ -376,8 +559,29 @@
     {
      "t": "2026-11-26T15:47:13Z",
      "text": "I've pinpointed a crucial inconsistency. At the video's start, MILA is correctly positioned, but between the 0:02.0 and 0:05.0 marks, she appears to float upward and grow in size disproportionately relative to Marcus's arm. Her left foot is also unsupported. This violates the established guidelines regarding her size constancy and grounding, so I'm investigating further."
+    },
+    {
+     "t": "2026-11-26T15:47:16Z",
+     "text": "Confirming Adherence and Fails"
+    },
+    {
+     "t": "2026-11-26T15:47:16Z",
+     "text": "I'm now consolidating all non-conformities into a succinct list, ensuring accurate labeling and descriptions. I'm noting the static, open mouth, which conflicts with the closed mouth requirement, despite being a static smile. I am ensuring that the phone UI remains illegible and the shirt text is garbled, and MILA lacks grounding and shifts in size. Finally, I'm documenting the framing issues, and"
+    },
+    {
+     "t": "2026-11-26T15:47:16Z",
+     "text": " I am also ensuring that each issue can be quickly verified."
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": "Verdict FAIL. 0:00-0:05 23. Prop text / Phone UI: Phone screen text is illegible/garbled with no UI animation on tap; shirt logo text is garbled. | 0:02-0:05 4. Constant size / Grounding: MILA scales up noticeably onto Marcus's arm and her left foot floats in midair off his sleeve. | 0:00-0:02 19. Framing: MILA on the right and phone on the left extend outside the center 9:16 safe column. | 0:00-0"
+    },
+    {
+     "t": "2026-11-26T15:47:19Z",
+     "text": ":05 MILA mouth: MILA's mouth remains open smiling instead of closed as specified."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:47:19Z"
   }
  ]
 }
