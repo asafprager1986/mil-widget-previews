@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:51:42Z",
+ "updated": "2026-11-26T15:51:55Z",
  "runs": [
   {
    "video": "KYC_v4_16x9",
@@ -17,6 +17,46 @@
     {
      "t": "2026-11-26T15:51:42Z",
      "text": "I'm currently dissecting the prompt, Mila's reference image, and the video asset (30.0s, 16:9). I'm carefully noting the system's instructions: generating valid JSON, avoiding comments, and compressing evaluations toward brevity. I'm focusing on the constraints."
+    },
+    {
+     "t": "2026-11-26T15:51:45Z",
+     "text": "Evaluating the Evidence"
+    },
+    {
+     "t": "2026-11-26T15:51:45Z",
+     "text": "I'm now deep-diving into the video, frame-by-frame, beginning with the first couple of seconds. I'm prioritizing brevity as requested; focusing on key visual and audio elements like camera movement and lip-sync. Currently, the initial checks are related to a lack of dynamic camera move and lip sync for the speaker Marcus. The initial review of the audio reveals a slightly audible pop."
+    },
+    {
+     "t": "2026-11-26T15:51:48Z",
+     "text": "Assessing the Lip Sync"
+    },
+    {
+     "t": "2026-11-26T15:51:49Z",
+     "text": "I've pinpointed lip-sync inconsistencies. The initial seconds show Marcus's mouth not moving, a clear audio-visual mismatch. However, from 00:01, his mouth syncs with the audio. I've also assessed the MILA visual, noting her size and positioning relative to Marcus, alongside consistent eye behavior. In the next segment, Marcus's mouth syncs properly for his lines. Consistency checks also showed th"
+    },
+    {
+     "t": "2026-11-26T15:51:49Z",
+     "text": "at his shirt has NO logo at the start, but then has a logo shown."
+    },
+    {
+     "t": "2026-11-26T15:51:52Z",
+     "text": "Identifying Inconsistencies"
+    },
+    {
+     "t": "2026-11-26T15:51:52Z",
+     "text": "I've discovered significant inconsistencies in the video. The \"M.I.L. Cleaners\" logo on Marcus's shirt appears and disappears across different shots, as do the vans. Also, the text on the paper he holds flickers slightly. The van sign also has inconsistencies; it's partially obscured by MILA and \"the name\" gets cut slightly abruptly at 00:07.8. I'm now looking at the kitchen scene for more discrep"
+    },
+    {
+     "t": "2026-11-26T15:51:52Z",
+     "text": "ancies."
+    },
+    {
+     "t": "2026-11-26T15:51:55Z",
+     "text": "Pinpointing Additional Flaws"
+    },
+    {
+     "t": "2026-11-26T15:51:55Z",
+     "text": "I'm now zeroing in on the \"Owner Onboarding\" segment. Specifically, I noted the garbled text on the laptop screen and MILA's animated actions. I confirmed the word cut-off at 00:11, and the slight clipping of \"tools\" at 00:14.5. I've also observed MILA's movements across the counter and her pointing gesture."
     }
    ]
   },
