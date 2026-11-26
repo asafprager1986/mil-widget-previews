@@ -1,633 +1,71 @@
 {
- "updated": "2026-11-25T09:35:58Z",
+ "updated": "2026-11-26T15:33:20Z",
  "runs": [
   {
-   "video": "magi_2_C",
-   "status": "FAIL",
-   "started": "2026-11-25T09:35:00Z",
+   "video": "c11",
+   "status": "judging",
+   "started": "2026-11-26T15:33:20Z",
    "log": [
     {
-     "t": "2026-11-25T09:35:00Z",
+     "t": "2026-11-26T15:33:20Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-25T09:35:27Z",
-     "text": "Analyzing Video Segment"
-    },
-    {
-     "t": "2026-11-25T09:35:27Z",
-     "text": "Okay, I'm carefully dissecting the video clip now. I've started by examining the initial seconds, specifically from the very beginning to 00:06.16. Already, I've found an unexpected element at the start \u2013 an unrelated shot which will need further scrutiny and analysis. I will be sure to compare each point against the specified requirements and checklist."
-    },
-    {
-     "t": "2026-11-25T09:35:30Z",
-     "text": "Reviewing Scene Transition"
-    },
-    {
-     "t": "2026-11-25T09:35:30Z",
-     "text": "I've zeroed in on the jarring cut at the video's start. This unexpected sticky note sequence (00:00.0-00:01.2), showing \"HIRING HELP,\" \"TRAINING,\" and \"SOFTWARE\" notes, is a glaring discrepancy from the intended scene. It's a frozen, static frame, immediately followed by the intended hallway scene (00:01.3-00:06.16). The audio during the hallway scene, the blonde woman's speech about \"area,\" sound"
-    },
-    {
-     "t": "2026-11-25T09:35:30Z",
-     "text": "s fine and lip-syncing is good. However, the text on the map she holds reveals garbled AI-generated labels."
-    },
-    {
-     "t": "2026-11-25T09:35:33Z",
-     "text": "Examining Hand Movements"
-    },
-    {
-     "t": "2026-11-25T09:35:33Z",
-     "text": "I'm now zeroing in on MILA's hand movements and interactions with the red marker during the hallway scene (00:01.3-00:06.16). Her actions are particularly interesting at 00:02.6-00:03.5 and 00:04.5. I'm focusing on the circular motion and the hand's subsequent resting position, listening to the marker sound. My aim is to see how natural the drawing action looks."
-    },
-    {
-     "t": "2026-11-25T09:35:36Z",
-     "text": "Assessing Shirt and Camera"
-    },
-    {
-     "t": "2026-11-25T09:35:36Z",
-     "text": "I'm now checking the woman's polo shirt logo and observing the camera movement. The logo is partially obscured, and I note a slow, smooth arc pan to the right throughout the scene. The first, static shot remains a fail: an unrelated, frozen frame with no audio cue. This cut definitely doesn't help. I'm also noticing the garbled AI text on the map; it seems I need to assess the video against some i"
-    },
-    {
-     "t": "2026-11-25T09:35:36Z",
-     "text": "nstructions."
-    },
-    {
-     "t": "2026-11-25T09:35:39Z",
-     "text": "Summarizing Verdicts"
-    },
-    {
-     "t": "2026-11-25T09:35:39Z",
-     "text": "I'm now prioritizing the JSON format and condensing my thoughts. I've pinpointed the key failures: a stray frozen frame at the start, garbled map text, and a hand action mismatch. The `usable_range` is definitely \"none,\" given these issues. I'll construct the `fails` and `passes` sections now."
-    },
-    {
-     "t": "2026-11-25T09:35:41Z",
-     "text": "Verdict FAIL. 00:00-00:01.3 stray_shot_and_hook: Unrelated frozen sticky-note shot opens the clip before cutting abruptly to the map scene. | 00:01.3-00:06.16 garbled_text: Printed map labels and legend contain garbled text. | 00:03.6-00:05.5 action_miss: MILA lowers her marker after circling instead of tapping the circle."
     }
-   ],
-   "finished": "2026-11-25T09:35:41Z"
+   ]
   },
   {
-   "video": "magi_2_B_audiofix",
-   "status": "FAIL",
-   "started": "2026-11-25T09:35:00Z",
+   "video": "c10",
+   "status": "judging",
+   "started": "2026-11-26T15:33:20Z",
    "log": [
     {
-     "t": "2026-11-25T09:35:00Z",
+     "t": "2026-11-26T15:33:20Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-25T09:35:33Z",
-     "text": "Analyzing Initial Input"
-    },
-    {
-     "t": "2026-11-25T09:35:33Z",
-     "text": "I've started meticulously reviewing the video and its associated requirements. I'm focusing initially on the visual and auditory elements, specifically the first second: a man in a navy polo shirt presenting a black smartphone, the slight camera movement, and a distinctive buzzing sound. The context mentions Mila is present."
-    },
-    {
-     "t": "2026-11-25T09:35:36Z",
-     "text": "Observing Mila's Actions"
-    },
-    {
-     "t": "2026-11-25T09:35:36Z",
-     "text": "I'm now zeroing in on Mila's actions between seconds 00:00 and 00:05. The details of her attire are noted: polka-dot dress, apron, gloves, and glasses. I'm especially focused on her hand movements. From leaning in and looking at the phone with clasped hands, to the appearance of a yellow sticky note reading \"NOT BOOKED\", I'm scrutinizing the precise moment that the note materializes on the phone, "
-    },
-    {
-     "t": "2026-11-25T09:35:36Z",
-     "text": "noting the potential for her physically slapping it onto the phone and the implications of this action."
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": "Detecting Temporal Inconsistencies"
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": "I've just confirmed a major discrepancy. At 00:04, Mila's hands are clasped, and then at 00:05 the \"NOT BOOKED\" sticky note magically appears on the phone's back. This completely contradicts the prompt's instruction about a slap. It violates action continuity, and demands more thorough verification of the video and audio. Moreover, the phone's orientation relative to the camera requires further ev"
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": "aluation, considering the prompt's specification that the phone should face the camera."
-    },
-    {
-     "t": "2026-11-25T09:35:41Z",
-     "text": "Evaluating Phone Details"
-    },
-    {
-     "t": "2026-11-25T09:35:41Z",
-     "text": "I'm now focused on the phone's presentation. Initially, it's a completely black screen facing the camera, which aligns with the \"buzzing black smartphone\" prompt. Mila's gaze at the blank back/side is also acceptable. The sticky note continues to be the primary discrepancy. Also, I'm noting the stylistic details of Mila, confirming that she closely matches the requested style."
-    },
-    {
-     "t": "2026-11-25T09:35:44Z",
-     "text": "Observing Visual Consistency"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "I'm now carefully examining the man in the video. His facial expressions and lip sync during his line (\"Your phone rang three times today, while you were scrubbing a tub\") appear natural and photorealistic. There is a slight pause, and some stillness in his post-speech gaze at 00:04-00:05. Additionally, the phone's grasp with his fingers seems natural. \"NOT BOOKED\" text is clear and stays on scree"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "n. I need to note how Mila's hand moves to place it at 00:04."
-    },
-    {
-     "t": "2026-11-25T09:35:47Z",
-     "text": "Confirming Note Placement"
-    },
-    {
-     "t": "2026-11-25T09:35:47Z",
-     "text": "I've just confirmed the sticky note's anomalous behavior. At 00:04, it briefly appears near Mila's hip, then immediately teleports onto the phone's back at 00:05, all while her hands return to her lap, meaning her hands don't even *move* towards the phone. This violates action continuity and cause before effect. I'm also noting that the note briefly clips by her left hand at 00:04 before disappear"
-    },
-    {
-     "t": "2026-11-25T09:35:47Z",
-     "text": "ing and appearing on the phone. I'm preparing to evaluate against the JSON format and constraints."
-    },
-    {
-     "t": "2026-11-25T09:35:50Z",
-     "text": "Defining Usable Range"
-    },
-    {
-     "t": "2026-11-25T09:35:50Z",
-     "text": "I've determined a clean usable range: 00:00 to 00:04. This marks where no visual anomalies were present. The sticky note and action continuity fail begin at 00:04. I will adjust the `usable_range` accordingly and check all remaining fields before finalizing the report."
-    },
-    {
-     "t": "2026-11-25T09:35:50Z",
-     "text": "I'm now carefully reviewing all of the fields and attributes."
-    },
-    {
-     "t": "2026-11-25T09:35:53Z",
-     "text": "Verdict FAIL. 00:04-00:05 Action continuity (Item 9): Sticky note teleports onto the phone without MILA slapping it; her hands jump back to her lap."
     }
-   ],
-   "finished": "2026-11-25T09:35:53Z"
+   ]
   },
   {
-   "video": "magi_2_A",
-   "status": "FAIL",
-   "started": "2026-11-25T09:35:00Z",
+   "video": "c09",
+   "status": "judging",
+   "started": "2026-11-26T15:33:20Z",
    "log": [
     {
-     "t": "2026-11-25T09:35:00Z",
+     "t": "2026-11-26T15:33:20Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-25T09:35:28Z",
-     "text": "Analyzing System Constraints"
-    },
-    {
-     "t": "2026-11-25T09:35:28Z",
-     "text": "I'm currently focused on the system constraints, specifically the JSON formatting and verbosity reduction. I'm carefully reviewing the provided documents, ensuring that I grasp all the nuances of generating a valid, parseable JSON and avoiding any extra text outside of it. I'm also internalizing the need to reduce verbosity, considering how to achieve concise yet complete responses."
-    },
-    {
-     "t": "2026-11-25T09:35:31Z",
-     "text": "Prioritizing Brevity & Detail"
-    },
-    {
-     "t": "2026-11-25T09:35:31Z",
-     "text": "I'm now focusing on extracting descriptive attributes, balancing brevity with high-level summaries for a JSON response conforming to the specified format. The current JSON structure will be `{\"verdict\":\"PASS|FAIL\",\"fails\":[{\"item\":\"\",\"at\":\"\",\"note\":\"\"}],\"passes\":[\"short\"],\"usable_range\":\"\"}`. I'm carefully analyzing the video clip, focusing on every frame and audio detail from 0:00 to 0:01, includ"
-    },
-    {
-     "t": "2026-11-25T09:35:31Z",
-     "text": "ing the visual specifics and sounds."
-    },
-    {
-     "t": "2026-11-25T09:35:35Z",
-     "text": "Examining Frame-Audio Sync"
-    },
-    {
-     "t": "2026-11-25T09:35:35Z",
-     "text": "I'm now deep-diving into the lip sync issue between 0:00 and 0:02, which I think represents a significant violation. I've broken down the timing of mouth movements and audio, and noted the exact frames where sync appears off. It's becoming clearer where the inconsistencies lie, especially when considering the \"every\" start at 0:01.8. I'm focusing on \"Every cleaning franchise says quality\" at the m"
-    },
-    {
-     "t": "2026-11-25T09:35:35Z",
-     "text": "oment."
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": "Assessing Lip Sync and Details"
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": "I'm now zeroing in on the lip-sync discrepancies, specifically between 0:01 and 0:06. The mouth movements at 0:05.0 are particularly problematic, with the \"test\" articulation appearing delayed or off. I've noted a large \"O\" shape at 0:03.0 during \"says\" or \"quality\". I'm also examining the cartoon character \"MILA\" at 0:00: her attire, pose, and eye movements seem correct, but I'm checking her hand"
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": " positions in detail."
-    },
-    {
-     "t": "2026-11-25T09:35:42Z",
-     "text": "Evaluating Animation Quality"
-    },
-    {
-     "t": "2026-11-25T09:35:42Z",
-     "text": "I'm now assessing the animation quality, particularly MILA's movements and gestures from 0:00 to 0:06. I've noted the seamless arm folding and idle movements. I'm confirming that her size remains consistent, with a slight camera push-in. Furthermore, I've checked the animation of the woman's gloved hand at 0:00."
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "Investigating Action Synchronicity"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "I'm now zeroing in on the hand actions and audio-visual synchronization, specifically the glove-snapping and speech at the clip's opening. I'm noting the woman's actions and the associated SFX. MILA's hand gesture at 0:00 to 0:01 lacks a corresponding glove-snap, which creates a noticeable inconsistency. I am also checking the camera movement."
-    },
-    {
-     "t": "2026-11-25T09:35:48Z",
-     "text": "Pinpointing Critical Failures"
-    },
-    {
-     "t": "2026-11-25T09:35:48Z",
-     "text": "I've homed in on specific failures. Item 7, Lip vs. audio, is a clear failure before the voice starts around 0:01.8. I have also noted the unsynchronized \"O\" mouth shape and wide open mouth at 0:05. Item 10, SFX/action, is another issue: The glove snap plays at the same time as the cuff tug, but MILA doesn't have a corresponding action. Finally, item 2, Hook: The initial camera movement is minimal"
-    },
-    {
-     "t": "2026-11-25T09:35:48Z",
-     "text": "."
-    },
-    {
-     "t": "2026-11-25T09:35:51Z",
-     "text": "Summarizing Pass/Fail Criteria"
-    },
-    {
-     "t": "2026-11-25T09:35:51Z",
-     "text": "I'm synthesizing the \"passes\" into concise statements, such as confirming MILA's consistent model appearance and clear audio. For failures, I'm documenting: the woman's unsynchronized mouth movements, MILA's lack of action matching SFX, and the static camera at the start. I'm focusing on ensuring these summaries are clear and succinct, as per requirements."
-    },
-    {
-     "t": "2026-11-25T09:35:54Z",
-     "text": "Verdict FAIL. 0:00.8-0:01.6 7. Lips vs audio: Woman silently opens and moves mouth before audio starts; lip-sync drifts slightly during speech. | 0:00.0-0:02.0 10. Impact SFX: MILA only holds her hand up then folds arms rather than snapping on a glove in sync with the SFX. | 0:00.0-0:02.0 2. Hook: Camera is nearly static instead of a dynamic push-in."
     }
-   ],
-   "finished": "2026-11-25T09:35:54Z"
+   ]
   },
   {
-   "video": "gemini_omni_flash_1_2_C",
-   "status": "FAIL",
-   "started": "2026-11-25T09:35:00Z",
+   "video": "c08",
+   "status": "judging",
+   "started": "2026-11-26T15:33:20Z",
    "log": [
     {
-     "t": "2026-11-25T09:35:00Z",
+     "t": "2026-11-26T15:33:20Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-25T09:35:29Z",
-     "text": "Examining The Visuals"
-    },
-    {
-     "t": "2026-11-25T09:35:29Z",
-     "text": "I'm now closely analyzing the initial frame of the video. At the very start (00:00), there's a quick flash of a frame. It seems to show Mila, who is giving a yellow sticky note that says \"HIRING HELP\" to a hand. On the sticky note, there are other words, \"TRAINING\" and \"SOFTWARE.\""
-    },
-    {
-     "t": "2026-11-25T09:35:32Z",
-     "text": "Analyzing Initial Sequence"
-    },
-    {
-     "t": "2026-11-25T09:35:32Z",
-     "text": "I've moved on to meticulously reviewing the initial six seconds of footage. I've pinpointed an obvious stray frame at the very beginning, featuring Mila with a \"HIRING HELP\" sticky note, entirely unrelated to the subsequent scene. I've also assessed the audio, noting the speaker's clear pronunciation and the marker squeak sound effect. The visuals are in sync with the audio."
-    },
-    {
-     "t": "2026-11-25T09:35:35Z",
-     "text": "Scrutinizing Mila's Details"
-    },
-    {
-     "t": "2026-11-25T09:35:35Z",
-     "text": "I'm now zeroing in on Mila's appearance and actions in the opening seconds. At the 00:00 mark, I see her positioned on the right edge of the map, wearing specific attire: gray curly hair, pink cat-eye glasses, a navy polka-dot dress, a pink apron, yellow gloves, and pearls. My focus then shifted to her arms, documenting the red marker's use in drawing a circle. I've noted a curious detail around t"
-    },
-    {
-     "t": "2026-11-25T09:35:35Z",
-     "text": "he 00:03-00:04 mark: the marker mysteriously vanishes from her hand, which warrants further investigation as a prop morph or disappearance!"
-    },
-    {
-     "t": "2026-11-25T09:35:39Z",
-     "text": "Assessing Key Discrepancies"
-    },
-    {
-     "t": "2026-11-25T09:35:39Z",
-     "text": "I'm now zeroing in on discrepancies. The red marker vanishes inexplicably. The map legend text is gibberish, contradicting expectations. Mila's action of tapping the map is barely executed, and the camera move is essentially static, not an arc as intended. Further, I see no unusual hand features on the blonde woman, no extra fingers, photoreal face, and smooth lip sync."
-    },
-    {
-     "t": "2026-11-25T09:35:42Z",
-     "text": "Evaluating Usable Segments"
-    },
-    {
-     "t": "2026-11-25T09:35:42Z",
-     "text": "I'm now determining the usable clip range, given the inconsistencies. The flash frame at 00:00 and disappearing marker are key. Mila's appearance seems consistent with the brief, but the garbled map text makes me question the usability. I'm leaning toward either \"00:00.2-00:03.5\" or \"none\" as potential options. The audio, which has a marker squeak around 00:01-00:02, should be considered too."
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "{"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"verdict\": \"FAIL\","
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"fails\": ["
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "{"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"item\": \"9. Action continuity\","
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"at\": \"00:03-00:04\","
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"note\": \"Marker vanishes mid-line.\""
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "},"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "{"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"item\": \"11. Props show the VO\","
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"at\": \"00:00-00:06\","
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"note\": \"Map legend is garbled.\""
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "}"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "],"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"passes\": ["
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"No usable segment.\""
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "],"
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "\"usable_range\": \"none\""
-    },
-    {
-     "t": "2026-11-25T09:35:45Z",
-     "text": "}"
-    },
-    {
-     "t": "2026-11-25T09:35:48Z",
-     "text": "Verdict FAIL. 00:00 3. Flash frames / stray cuts: Unrelated flash frame of MILA handing a sticky note appears at the start. | 00:03-00:04 9. Action continuity: Red marker disappears from MILA's hand as she lowers her arm. | 00:00-00:06 11. Props show the VO: Map legend and street labels contain garbled text. | 00:00-00:02 2. Hook: Camera stays mostly static without the requested arc or dynamic hoo"
-    },
-    {
-     "t": "2026-11-25T09:35:48Z",
-     "text": "k."
     }
-   ],
-   "finished": "2026-11-25T09:35:48Z"
+   ]
   },
   {
-   "video": "gemini_omni_flash_1_2_B",
-   "status": "FAIL",
-   "started": "2026-11-25T09:35:00Z",
+   "video": "c07",
+   "status": "judging",
+   "started": "2026-11-26T15:33:20Z",
    "log": [
     {
-     "t": "2026-11-25T09:35:00Z",
+     "t": "2026-11-26T15:33:20Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-25T09:35:26Z",
-     "text": "Analyzing Video Data"
-    },
-    {
-     "t": "2026-11-25T09:35:26Z",
-     "text": "I'm now meticulously cross-referencing the video and audio content against every defined requirement and checklist item. System instructions, specifically regarding JSON format (valid, parseable, no comments, no extraneous text) are at the forefront of my mind as the first point of analysis."
-    },
-    {
-     "t": "2026-11-25T09:35:30Z",
-     "text": "Refining Content Analysis"
-    },
-    {
-     "t": "2026-11-25T09:35:30Z",
-     "text": "I've significantly reduced verbosity as requested, aiming for concise summaries. The video clip is a 6-second engine test; I'm focusing on the audio (spoken words, phone buzz, sticky note slap, sigh) and visual details. Notably, at the start, MILA has her eyes closed and her mouth puckered!"
-    },
-    {
-     "t": "2026-11-25T09:35:33Z",
-     "text": "Examining Visual Details"
-    },
-    {
-     "t": "2026-11-25T09:35:33Z",
-     "text": "I'm now diving deeper into the specifics, frame by frame, especially within the 0:00-0:03 timeframe. I've focused on the man's actions and the screen details. At 0:01, the phone's screen has a glare, and icons are faintly visible, all as expected. I'm focusing on MILA, noting her initial closed eyes and puckered lips, and now her hand movements."
-    },
-    {
-     "t": "2026-11-25T09:35:36Z",
-     "text": "Investigating Continuity Errors"
-    },
-    {
-     "t": "2026-11-25T09:35:36Z",
-     "text": "I'm now zeroing in on a blatant continuity error. At the 0:02 mark, a yellow sticky note magically appears in MILA's hand. Previously, her hands were empty at 0:01, resting in her lap. More importantly, the note she slaps on the screen *miraculously* changes text from blank to \"NOT BOOKED\"! This has to be a discontinuity error in the video, or an editing trick."
-    },
-    {
-     "t": "2026-11-25T09:35:40Z",
-     "text": "Assessing Animation Quality"
-    },
-    {
-     "t": "2026-11-25T09:35:40Z",
-     "text": "I'm now carefully examining the 2D/3D animation style discrepancy, and making further notes on objective failures. I am evaluating MILA, specifically, comparing her doll-like, 3D appearance with the 2D cartoon requirement. I've also re-examined the man's lip sync, and MILA's expressions, and confirmed their correlation to the audio. I've confirmed her movements are consistent with the audio, and c"
-    },
-    {
-     "t": "2026-11-25T09:35:40Z",
-     "text": "hecked her actions and posture again."
-    },
-    {
-     "t": "2026-11-25T09:35:43Z",
-     "text": "Evaluating Phone Display"
-    },
-    {
-     "t": "2026-11-25T09:35:43Z",
-     "text": "I'm now carefully examining the phone's visual details. Initially, at 0:00, the phone is held facing him, and then at 0:01, it's flipped to face the camera. The video doesn't show missed call UI, which wasn't strictly required. There's a dark glare, not a clear UI, which is what the video shows. I'm noting the camera's slight zoom-out/shift, and the phone buzz SFX at 0:00 confirms a hook. The vide"
-    },
-    {
-     "t": "2026-11-25T09:35:43Z",
-     "text": "o matches the intended actions."
-    },
-    {
-     "t": "2026-11-25T09:35:46Z",
-     "text": "Revisiting Facial Expressions"
-    },
-    {
-     "t": "2026-11-25T09:35:46Z",
-     "text": "I'm now zeroing in on MILA's expressions again and finding multiple, glaring issues. At the start, her eyes are closed and lips are puckered, a clear violation of item 12. Also, at 0:02, she closes her eyes again while slapping the note. Plus, the yellow sticky note's appearance is a clear cause-and-effect error. Finally, I've confirmed the man's normal hand posture."
-    },
-    {
-     "t": "2026-11-25T09:35:49Z",
-     "text": "Verifying Note Behavior"
-    },
-    {
-     "t": "2026-11-25T09:35:49Z",
-     "text": "I'm now focusing on the sticky note's movement and adherence to the phone screen from 0:03 to 0:06. The text \"NOT BOOKED\" remains legible and correctly spelled. I've also rechecked MILA's hand positions at 0:02; there are no continuity errors or phantom limbs. I've gone back to confirm MILA's initial closed eyes and puckered lips are still a clear violation of item 1, and rechecked the hook."
-    },
-    {
-     "t": "2026-11-25T09:35:53Z",
-     "text": "Confirming Discrepancies"
-    },
-    {
-     "t": "2026-11-25T09:35:53Z",
-     "text": "I'm now focusing on specific discrepancies. The video lacks a dynamic camera push-in, violating an item. A bigger issue is the yellow sticky note appearing mid-frame, a continuity error. MILA's 3D appearance clashes with the 2D requirement. While audio and lip sync are fine, the usable range is essentially \"none\" or \"0:03-0:06\". I'm still weighing the best way to express that."
-    },
-    {
-     "t": "2026-11-25T09:35:56Z",
-     "text": "Finalizing Data Structure"
-    },
-    {
-     "t": "2026-11-25T09:35:56Z",
-     "text": "I'm now generating the JSON output, ensuring it adheres strictly to the schema and includes only concise, accurate notes. I'm focusing on the \"fails\" and \"passes\" sections, meticulously documenting each discrepancy and confirming the \"usable_range\" with \"none\" or \"0:03-0:06\". The notes are extremely brief per system instructions, and I've double-checked the items to be precise."
-    },
-    {
-     "t": "2026-11-25T09:35:58Z",
-     "text": "Verdict FAIL. VO diff: '' -> 'hmph' | 0:00-0:01 Faces/mouths: MILA starts with both eyes closed and odd puckered lips; eyes shut again at 0:02. | 0:01-0:02 Action continuity: Sticky note appears in MILA's hand without her picking it up. | 0:00-0:01 Hook: Camera slightly widens instead of a dynamic push-in. | 0:00-0:06 MILA style: Looks 3D CGI/doll-like rather than 2D cartoon."
     }
-   ],
-   "finished": "2026-11-25T09:35:58Z"
+   ]
   },
   {
-   "video": "gemini_omni_flash_1_2_A",
-   "status": "FAIL",
-   "started": "2026-11-25T09:35:00Z",
+   "video": "c06",
+   "status": "judging",
+   "started": "2026-11-26T15:33:20Z",
    "log": [
     {
-     "t": "2026-11-25T09:35:00Z",
+     "t": "2026-11-26T15:33:20Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-25T09:35:26Z",
-     "text": "Analyzing Initial Constraints"
-    },
-    {
-     "t": "2026-11-25T09:35:26Z",
-     "text": "I'm currently focused on dissecting the initial instructions. Specifically, I'm noting the crucial constraint: generating only valid, parseable JSON without any extraneous text. This direct stipulation is paramount for successful scoring. I'm focusing on that, and will work on a process for validation."
-    },
-    {
-     "t": "2026-11-25T09:35:28Z",
-     "text": "Summarizing Video Attributes"
-    },
-    {
-     "t": "2026-11-25T09:35:28Z",
-     "text": "I've moved on to understanding the video's details. I'm noting the 6-second duration, resolution, and the specific spoken words. The camera's slow push-in, the woman's clear enunciation, and the mascot's synchronized actions are all key. I'm paying attention to the animated mascot's consistent features, ensuring its portrayal is validated. I'll summarize these aspects concisely."
-    },
-    {
-     "t": "2026-11-25T09:35:31Z",
-     "text": "Reviewing Sonic & Visual Details"
-    },
-    {
-     "t": "2026-11-25T09:35:31Z",
-     "text": "I'm now diving deep into the audio and visual elements, especially the first second. I am scrutinizing the chime-like sound \u2013 it might be more musical than initially thought; the \"bum-bum-bum\" seems incorrect now. The key is it's a two-note chime hook, not a clear glove snap SFX. Visually, the \"MIL Cleaners\" logo on the woman's shirt is clear, despite some initial garbling. I am carefully assessin"
-    },
-    {
-     "t": "2026-11-25T09:35:31Z",
-     "text": "g each second for compliance."
-    },
-    {
-     "t": "2026-11-25T09:35:34Z",
-     "text": "Examining Glove Details"
-    },
-    {
-     "t": "2026-11-25T09:35:34Z",
-     "text": "I'm now zeroing in on the woman's gloves, specifically at the first two seconds. Initially, I missed that at 00:00, she has white gloves on, adjusting the right one. At 00:01, she clasps them. I'm noting this crucial detail as it contradicts my initial understanding of the glove attributes. I'll need to accurately depict this in my description of the event."
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": "Assessing Visual Actions"
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": "I'm now carefully examining the woman and mascot's arm movements throughout the video. I'm noting the woman's gestures with white-gloved hands, the mascot's folded arms, and the consistent animation of its eyes and facial expressions. The mascot's mouth doesn't appear to move in sync with the audio. I am also checking the camera's zoom and the relative scaling of both figures, ensuring that size r"
-    },
-    {
-     "t": "2026-11-25T09:35:38Z",
-     "text": "elationships remain consistent throughout the video. Also assessing for lip-sync between the woman and audio."
-    },
-    {
-     "t": "2026-11-25T09:35:41Z",
-     "text": "Revising Sonic Compliance"
-    },
-    {
-     "t": "2026-11-25T09:35:41Z",
-     "text": "I'm now re-evaluating the audio-visual synchronization, focusing on checklist item #10. I realize the initial \"glove snap\" is a misinterpretation; it's a gentle adjustment with a soft, 2-note chime instead of a snap. This means the audio and visual representations have some noncompliance. The woman's lip movements precisely match the spoken words. I need to accurately represent the auditory detail"
-    },
-    {
-     "t": "2026-11-25T09:35:41Z",
-     "text": "s."
-    },
-    {
-     "t": "2026-11-25T09:35:44Z",
-     "text": "Confirming Visual Details"
-    },
-    {
-     "t": "2026-11-25T09:35:44Z",
-     "text": "I'm now focusing on the visual details, especially the initial seconds. I've re-examined MILA's movements and noted her right arm reaching to her left wrist, both hands in yellow gloves. I've confirmed that the character's style aligns with IMAGE 1, including the grey hair, glasses, dress, and apron, with accurate glove colors. The camera's slow push-in appears smooth and consistent with the promp"
-    },
-    {
-     "t": "2026-11-25T09:35:44Z",
-     "text": "t's requirements."
-    },
-    {
-     "t": "2026-11-25T09:35:46Z",
-     "text": "Evaluating Compliance Flaws"
-    },
-    {
-     "t": "2026-11-25T09:35:46Z",
-     "text": "I'm now specifically looking at checklist compliance. I'm noting the absence of a distinct glove-snap SFX in favor of a soft chime, which is a potential non-compliance issue. The visual inspection indicates a clear \"MIL Cleaners\" logo, which needs further evaluation regarding the \"no text\" rule. I'm carefully analyzing these points."
-    },
-    {
-     "t": "2026-11-25T09:35:49Z",
-     "text": "Determining Video Compliance"
-    },
-    {
-     "t": "2026-11-25T09:35:49Z",
-     "text": "I'm now carefully judging the video against every checklist item for compliance, especially regarding the woman's face and lip movements, and the mascot's actions. I've noted the natural, clean lip-sync and the mascot's consistent animation, as well as the gentle chime sound and the woman's subtle arm and head movements. The mascot's overall styling perfectly matches image 1. I'm focusing on the s"
-    },
-    {
-     "t": "2026-11-25T09:35:49Z",
-     "text": "pecifics of checklist item #10 and deciding the verdict."
-    },
-    {
-     "t": "2026-11-25T09:35:52Z",
-     "text": "Assessing Checklist Compliance"
-    },
-    {
-     "t": "2026-11-25T09:35:52Z",
-     "text": "I'm now determining overall compliance with the checklist, focusing on audio and visual fidelity. I've noted a few key points: First, the woman's speech and lip movements are perfectly in sync; and the mascot's animations and styling are flawless. The slow push-in is also smooth and consistent, with no distortions. I'm noting the clear logo on the woman's shirt, although it has no text, so may be "
-    },
-    {
-     "t": "2026-11-25T09:35:52Z",
-     "text": "okay. I'm focusing on that, and other potential violations. I have to make a call on this."
-    },
-    {
-     "t": "2026-11-25T09:35:55Z",
-     "text": "Determining Overall Video Verdict"
-    },
-    {
-     "t": "2026-11-25T09:35:55Z",
-     "text": "I'm now determining the overall verdict, considering all compliance aspects. I've confirmed that the \"MIL Cleaners\" text is legible and consistent, which is a key pass. Facial expressions, subtle animations, and the continuous shot are also all satisfactory, giving me a strong pass rating. While there's a need to address the missing glove-snap SFX, the video visuals are usable from 00:00 to 00:06."
-    },
-    {
-     "t": "2026-11-25T09:35:55Z",
-     "text": " It may need the chime replaced for 00:00. I can keep it brief: \"00:00-00:06 (visuals; replace intro chime with glove-snap SFX)\"."
-    },
-    {
-     "t": "2026-11-25T09:35:57Z",
-     "text": "Verdict FAIL. 00:00-00:01 10. Impact SFX / no music: No synced glove-snap SFX; a brief musical chime plays instead, and gloves are adjusted rather than crisply snapped on."
     }
-   ],
-   "finished": "2026-11-25T09:35:57Z"
+   ]
   }
  ]
 }
