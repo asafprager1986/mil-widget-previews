@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T15:52:11Z",
+ "updated": "2026-11-26T15:52:16Z",
  "runs": [
   {
    "video": "KYC_v4_16x9",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:51:27Z",
    "log": [
     {
@@ -109,8 +109,21 @@
     {
      "t": "2026-11-26T15:52:11Z",
      "text": "I'm now consolidating my findings into the final report. I've re-reviewed MILA's floating at timestamps 00:25 and 00:27, as well as the shirt logo and van model inconsistencies, to include the garbled text in the prop and MILA's style drift. I'm also including the static camera issue in the report, to ensure the full report is complete."
+    },
+    {
+     "t": "2026-11-26T15:52:16Z",
+     "text": "Verdict FAIL. VO diff: 'customers' -> 'cu'; 'tools' -> 'tool'; 'leading' -> 'lead' | 00:11, 00:14, 00:18 8. Word cut-offs: Audio clips mid-word at cuts ('customers', 'tools', 'leading'). | 00:00-00:01, 00:16-00:18 7. Lips vs audio: Marcus's mouth stays closed during opening line; MILA mouths words silently at table. | 00:25, 00:27 Floating MILA: MILA floats mid-air beside binder against van door a"
+    },
+    {
+     "t": "2026-11-26T15:52:16Z",
+     "text": "nd slightly off ground by open van. | 00:00-00:06 18. Consistency: Shirt lacks logo at 00:00 then gains it at 00:02; van model changes between exterior shots. | 00:00-00:02 2. Hook: Static opening shot with no dynamic camera move or hook SFX. | 00:03, 00:08, 00:22, 00:27 23. Prop text quality: Garbled text on list, laptop, and binder; duplicated street names on map. | 00:00-00:28 25. MILA style: M"
+    },
+    {
+     "t": "2026-11-26T15:52:16Z",
+     "text": "ILA renders with slightly glossy 3D shading rather than flat 2D caricature."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:52:16Z"
   },
   {
    "video": "c11",
