@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:56:16Z",
+ "updated": "2026-11-26T15:56:30Z",
  "runs": [
   {
    "video": "KYC_v4_16x9",
@@ -73,6 +73,50 @@
     {
      "t": "2026-11-26T15:56:16Z",
      "text": "content presented on the \"TRAINING\" note."
+    },
+    {
+     "t": "2026-11-26T15:56:18Z",
+     "text": "Assessing the Map Scene"
+    },
+    {
+     "t": "2026-11-26T15:56:18Z",
+     "text": "I'm now deep-diving into the map scene. Specifically, I'm noting the repeated street names and the details of MILA's marker usage. I'm focusing closely on the caption's placement relative to the yellow graphic, and now, I'm beginning to analyze the details of the map itself. I've noted three repeated street names and am now assessing the cleanliness of the red circle MILA draws."
+    },
+    {
+     "t": "2026-11-26T15:56:22Z",
+     "text": "Analyzing the Lip Movements"
+    },
+    {
+     "t": "2026-11-26T15:56:22Z",
+     "text": "I'm now carefully analyzing the sequence from 00:25 onwards. The key discrepancy is the obvious lack of sync between Marcus's lip movements and the voiceover, especially as he grins. I'm also now noting his interaction with crew members at 00:25-00:27."
+    },
+    {
+     "t": "2026-11-26T15:56:22Z",
+     "text": "I'm now closely examining the visual of Marcus standing near the white van, at 00:27.4-00:30.0. I've pinpointed that MILA is floating next to him, with no visible support, and I've also noted that the text on the blue folder is garbled and unreadable, appearing to be AI-generated gibberish. I'm also now noting the dark overlay and end card that fade in at the end."
+    },
+    {
+     "t": "2026-11-26T15:56:24Z",
+     "text": "Verifying the End Card"
+    },
+    {
+     "t": "2026-11-26T15:56:24Z",
+     "text": "I'm now zeroing in on the end card details. I've confirmed the \"Start Today\" button is present, which satisfies some criteria, but I've observed that the end card itself is static, failing the dynamic requirement with no pulsing button. I've also noted that MILA is darkened behind the overlay and does not point to the CTA. I'm also now carefully checking Marcus's voice consistency."
+    },
+    {
+     "t": "2026-11-26T15:56:27Z",
+     "text": "Evaluating the Details"
+    },
+    {
+     "t": "2026-11-26T15:56:27Z",
+     "text": "I'm now checking the hook SFX; there's none, just the voice-over. Captions are positioned too low, violating the safe zone. I'm also systematically checking MILA for winks across all shots, and have noted that she never winks, as well as confirming floating: she's clearly floating by the van, and her legs dangle off the laptop, creating a top-down perspective distortion."
+    },
+    {
+     "t": "2026-11-26T15:56:30Z",
+     "text": "Observing the Lip Sync"
+    },
+    {
+     "t": "2026-11-26T15:56:30Z",
+     "text": "I'm now zeroing in on lip-sync accuracy, noticing Marcus's mouth movements don't match the voiceover in multiple instances. I'm focusing specifically on the discrepancies in his smile and head turns at the beginning and later scenes. The shirt's logo inconsistency is also noted. I've also checked for garbled text."
     }
    ]
   },
