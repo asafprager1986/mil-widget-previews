@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T15:56:30Z",
+ "updated": "2026-11-26T15:56:40Z",
  "runs": [
   {
    "video": "KYC_v4_16x9",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:55:48Z",
    "log": [
     {
@@ -117,8 +117,41 @@
     {
      "t": "2026-11-26T15:56:30Z",
      "text": "I'm now zeroing in on lip-sync accuracy, noticing Marcus's mouth movements don't match the voiceover in multiple instances. I'm focusing specifically on the discrepancies in his smile and head turns at the beginning and later scenes. The shirt's logo inconsistency is also noted. I've also checked for garbled text."
+    },
+    {
+     "t": "2026-11-26T15:56:33Z",
+     "text": "Summarizing the Failures"
+    },
+    {
+     "t": "2026-11-26T15:56:33Z",
+     "text": "I'm now consolidating the definitive failures. At the start (00:00-00:01.3), the lip sync is off, and the camera is static. I'm noting the end card is static (00:28.8-00:30.0), and captions are too low (00:00-00:28.8). These points will form the basis of the JSON output. I'm focusing on concise notes and timestamps as per instructions."
+    },
+    {
+     "t": "2026-11-26T15:56:33Z",
+     "text": "I'm now structuring the verdict within the required JSON schema, paying close attention to brevity as requested, and I've noted the definitive failures that will populate the fails array in the JSON."
+    },
+    {
+     "t": "2026-11-26T15:56:35Z",
+     "text": "Compiling the Verdict"
+    },
+    {
+     "t": "2026-11-26T15:56:35Z",
+     "text": "I'm now carefully compiling the conclusive verdict, ensuring all observed failures are documented clearly and concisely within the JSON structure. I'm focusing on the timestamps and relevant categories, particularly those regarding lip sync, prop text inconsistencies, and MILA's anatomical anomalies and floating presence. I've noted a full list of passes, too."
+    },
+    {
+     "t": "2026-11-26T15:56:40Z",
+     "text": "Verdict FAIL. 00:00-00:02 Hook: Static opening shot with no dynamic camera move or hook SFX. | 00:00-00:01.3, 00:25.0-00:27.4 Lip-sync: Marcus smiles without lip-syncing the spoken VO lines. | 00:00-00:01.3 Outfit consistency: Marcus's shirt is missing the chest logo shown in subsequent shots. | 00:06.0-00:07.8, 00:21.4-00:24.8, 00:27.4-00:28.8 Prop text: Garbled folder label, awkward van sign cop"
+    },
+    {
+     "t": "2026-11-26T15:56:40Z",
+     "text": "y, and duplicated map street names. | 00:18.3-00:21.4 MILA perspective: Distorted top-down pose with missing legs; visual shows 'TRAINING' not in VO. | 00:27.4-00:28.8 MILA floating: MILA floats unsupported in mid-air next to the blue folder. | 00:00-00:28.8 Caption safe zone: Captions sit near the bottom edge inside the bottom 35% unsafe zone. | 00:28.8-00:30.0 End card: Static fade-in card lacks"
+    },
+    {
+     "t": "2026-11-26T15:56:40Z",
+     "text": " button pulse or tap animation."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:56:40Z"
   },
   {
    "video": "c11",
