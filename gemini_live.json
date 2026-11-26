@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T15:47:40Z",
+ "updated": "2026-11-26T15:51:27Z",
  "runs": [
+  {
+   "video": "KYC_v4_16x9",
+   "status": "judging",
+   "started": "2026-11-26T15:51:27Z",
+   "log": [
+    {
+     "t": "2026-11-26T15:51:27Z",
+     "text": "Gemini 4 Neon started judging against Asaf's checklist."
+    }
+   ]
+  },
   {
    "video": "c11",
    "status": "FAIL",
@@ -528,106 +539,6 @@
     }
    ],
    "finished": "2026-11-26T15:47:25Z"
-  },
-  {
-   "video": "c06",
-   "status": "FAIL",
-   "started": "2026-11-26T15:46:42Z",
-   "log": [
-    {
-     "t": "2026-11-26T15:46:42Z",
-     "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-26T15:46:55Z",
-     "text": "Analyzing Video Against Criteria"
-    },
-    {
-     "t": "2026-11-26T15:46:55Z",
-     "text": "I'm now meticulously dissecting the video asset, cross-referencing it with the prompt's specifications and checklist. I'm prioritizing adherence to the system instructions, particularly JSON validity and compression. Early findings are promising. I'm focusing on ensuring it meets all outlined criteria before proceeding."
-    },
-    {
-     "t": "2026-11-26T15:46:58Z",
-     "text": "Evaluating Video Elements"
-    },
-    {
-     "t": "2026-11-26T15:46:58Z",
-     "text": "I've shifted my focus to a frame-by-frame and audio analysis. The video runs for approximately 5 seconds, containing a male voice delivering a specific instruction. I've pinpointed the exact timing of the soft digital \"ding\" coinciding with MILA pointing at the phone screen. Now, I'm examining MILA's size and constancy within the video sequence to ensure compliance with size requirements."
-    },
-    {
-     "t": "2026-11-26T15:47:02Z",
-     "text": "Assessing Visual Anomalies"
-    },
-    {
-     "t": "2026-11-26T15:47:02Z",
-     "text": "I'm now zeroing in on a noticeable discrepancy within the video sequence. My attention has been drawn to a period between the 0:02.3 and 0:04.5 mark, specifically, her size. MILA seems to enlarge as she approaches and then steps onto Marcus's arm, which I'm now investigating closely. I'm focusing on the illusion of scaling through perspective, and verifying correct grounding of both feet. This req"
-    },
-    {
-     "t": "2026-11-26T15:47:02Z",
-     "text": "uires detailed frame-by-frame scrutiny."
-    },
-    {
-     "t": "2026-11-26T15:47:05Z",
-     "text": "Examining Facial Features"
-    },
-    {
-     "t": "2026-11-26T15:47:05Z",
-     "text": "I'm now zeroing in on MILA's facial expressions and anatomy. Her eyes stay open, as expected. I've re-examined the mouth and confirmed it's animated, but smiling, not mouthing words. Her smile remains consistent throughout, matching the reference image, which is a good sign. I've double-checked her arms, finding the pose is good."
-    },
-    {
-     "t": "2026-11-26T15:47:05Z",
-     "text": "\\n\\n**Inspecting Phone Screen Content"
-    },
-    {
-     "t": "2026-11-26T15:47:05Z",
-     "text": "I'm currently focused on the text displayed on the phone screen Marcus is holding, as it seems blurry and unreadable. I need to verify that the prop text adheres to requirements. This aspect requires further, more detailed analysis."
-    },
-    {
-     "t": "2026-11-26T15:47:08Z",
-     "text": "Verifying Text Legibility"
-    },
-    {
-     "t": "2026-11-26T15:47:08Z",
-     "text": "I'm now zeroing in on the text elements to ensure complete adherence. The \"booking app\" text on the phone screen is unreadable, and the list items are also blurry. Examining Marcus's shirt, I see that \"Cleaners\" is smudged. I'm also confirming the phone's UI is static as expected. Then, I'm focusing on his mouth and face, assessing his expressions and hand gestures."
-    },
-    {
-     "t": "2026-11-26T15:47:11Z",
-     "text": "Checking Frame Positioning"
-    },
-    {
-     "t": "2026-11-26T15:47:11Z",
-     "text": "I'm now carefully examining MILA and the phone's positioning within the frame, especially in the 9:16 context. At the 0:00-0:01 mark, MILA and the phone clearly extend beyond the center 9:16 column, leading to potential cropping issues across different aspect ratios. This is a crucial finding, and I am documenting these findings. The \"hook\" sound effect is not present in the initial 1-2 seconds."
-    },
-    {
-     "t": "2026-11-26T15:47:13Z",
-     "text": "Scrutinizing Size Discrepancies"
-    },
-    {
-     "t": "2026-11-26T15:47:13Z",
-     "text": "I've pinpointed a crucial inconsistency. At the video's start, MILA is correctly positioned, but between the 0:02.0 and 0:05.0 marks, she appears to float upward and grow in size disproportionately relative to Marcus's arm. Her left foot is also unsupported. This violates the established guidelines regarding her size constancy and grounding, so I'm investigating further."
-    },
-    {
-     "t": "2026-11-26T15:47:16Z",
-     "text": "Confirming Adherence and Fails"
-    },
-    {
-     "t": "2026-11-26T15:47:16Z",
-     "text": "I'm now consolidating all non-conformities into a succinct list, ensuring accurate labeling and descriptions. I'm noting the static, open mouth, which conflicts with the closed mouth requirement, despite being a static smile. I am ensuring that the phone UI remains illegible and the shirt text is garbled, and MILA lacks grounding and shifts in size. Finally, I'm documenting the framing issues, and"
-    },
-    {
-     "t": "2026-11-26T15:47:16Z",
-     "text": " I am also ensuring that each issue can be quickly verified."
-    },
-    {
-     "t": "2026-11-26T15:47:19Z",
-     "text": "Verdict FAIL. 0:00-0:05 23. Prop text / Phone UI: Phone screen text is illegible/garbled with no UI animation on tap; shirt logo text is garbled. | 0:02-0:05 4. Constant size / Grounding: MILA scales up noticeably onto Marcus's arm and her left foot floats in midair off his sleeve. | 0:00-0:02 19. Framing: MILA on the right and phone on the left extend outside the center 9:16 safe column. | 0:00-0"
-    },
-    {
-     "t": "2026-11-26T15:47:19Z",
-     "text": ":05 MILA mouth: MILA's mouth remains open smiling instead of closed as specified."
-    }
-   ],
-   "finished": "2026-11-26T15:47:19Z"
   }
  ]
 }
