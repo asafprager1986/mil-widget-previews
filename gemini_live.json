@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T15:54:35Z",
+ "updated": "2026-11-26T15:54:47Z",
  "runs": [
   {
    "video": "KYC_v4_16x9",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:53:46Z",
    "log": [
     {
@@ -117,8 +117,37 @@
     {
      "t": "2026-11-26T15:54:35Z",
      "text": "ice consistency."
+    },
+    {
+     "t": "2026-11-26T15:54:38Z",
+     "text": "Assessing MILA Characteristics"
+    },
+    {
+     "t": "2026-11-26T15:54:38Z",
+     "text": "I'm now focusing on MILA's visual properties, specifically her eye behavior, arm count, and size discrepancies across various timestamps. I've noted that her eyes are consistently open, with no winking observed. Her size fluctuates notably, and her visual style, mainly 2D, exhibits subtle 3D-shaded variations in certain frames. I am considering these features in the output JSON."
+    },
+    {
+     "t": "2026-11-26T15:54:41Z",
+     "text": "Cataloging Critical Flaws"
+    },
+    {
+     "t": "2026-11-26T15:54:41Z",
+     "text": "I've organized the specific instances of inconsistencies into a structured format. I have cataloged Marcus's glasses, word cut-offs, lip-sync anomalies, MILA's floating, camera static, size fluctuations, and the van label. I am now refining these items for inclusion in the output. I am preparing the final JSON format for the output, and I am focused on the formatting."
+    },
+    {
+     "t": "2026-11-26T15:54:47Z",
+     "text": "Verdict FAIL. VO diff: 'customers' -> 'customer'; 'leading' -> 'lead' | 0:00-0:30 Consistency (#18): Marcus alternates between wearing glasses (0:00, 0:03-0:06, 0:15-0:18) and no glasses (0:01-0:03, 0:06-0:15, 0:24-0:30); van models change across shots. | 0:11, 0:18 Word cut-offs (#8): Speech and captions clip at cuts: 'customers' cuts to 'customer' (0:11) and 'leading' cuts to 'lead-' (0:18). | 0"
+    },
+    {
+     "t": "2026-11-26T15:54:47Z",
+     "text": ":00-0:01, 0:15-0:18, 0:27-0:28 Lips vs audio (#7): Marcus is on camera with closed or unsynced lips while his VO plays. | 0:27-0:29 MILA floating: MILA floats in mid-air beside the blue binder with no surface under her feet. | 0:00-0:02 Hook camera move (#2): Opening shot uses a static camera with no dynamic hook move. | 0:00-0:27 Constant size (#4): MILA's scale varies across forearm, kitchen cou"
+    },
+    {
+     "t": "2026-11-26T15:54:47Z",
+     "text": "nter, sticky-note, and van shots. | 0:06-0:08, 0:21-0:24 Prop text (#23): Van sign reads 'Homes Services' and map duplicates street names. | 0:00-0:28 Caption safe zone: Captions sit inside the bottom 35% unsafe zone."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:54:47Z"
   },
   {
    "video": "c11",
