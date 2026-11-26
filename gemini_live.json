@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:33:53Z",
+ "updated": "2026-11-26T15:34:06Z",
  "runs": [
   {
    "video": "c11",
@@ -65,6 +65,42 @@
     {
      "t": "2026-11-26T15:33:53Z",
      "text": " against his right arm which is at his side initially."
+    },
+    {
+     "t": "2026-11-26T15:33:56Z",
+     "text": "Evaluating the Frame's Position"
+    },
+    {
+     "t": "2026-11-26T15:33:56Z",
+     "text": "I am now assessing the framing and Marcus's positioning. My analysis reveals that his face is significantly left of the center 9:16 column; cropping would cut off a portion of his face and body. The lip-sync analysis confirms good synchronization with \"Start today,\" and his mouth remains closed afterward. I am cross-referencing this against the camera placement for conformity."
+    },
+    {
+     "t": "2026-11-26T15:34:00Z",
+     "text": "Pinpointing the Frame's Details"
+    },
+    {
+     "t": "2026-11-26T15:34:00Z",
+     "text": "I've just pinpointed MILA's position, at roughly 46%-60% of the frame, inside the center 9:16, while the folder starts at 54%-68%, moving to Marcus's chest at 25%-43%\u2014a clear framing violation. The static camera lacks any dynamic movement; the \"whoosh\" sound is soft and limited, failing to be a strong \"hook.\" I see significant floating with MILA's shoes clearly separated from Marcus's forearm and "
+    },
+    {
+     "t": "2026-11-26T15:34:00Z",
+     "text": "the blue folder scales and text changing as well! Also, I have begun to evaluate MILA's hands and actions."
+    },
+    {
+     "t": "2026-11-26T15:34:02Z",
+     "text": "Reviewing Acting Dynamics"
+    },
+    {
+     "t": "2026-11-26T15:34:02Z",
+     "text": "I'm now zeroing in on MILA and Marcus's performance. MILA's movements\u2014pushing the folder, waving, holding still\u2014are acceptable, though her stationary pose is unnaturally long. Marcus's left arm, rigidly positioned under the door handle throughout, looks unmotivated and unnatural once MILA begins floating. This raises questions about the overall performance."
+    },
+    {
+     "t": "2026-11-26T15:34:05Z",
+     "text": "Confirming Final Fails"
+    },
+    {
+     "t": "2026-11-26T15:34:05Z",
+     "text": "I am now consolidating all failure points into the schema for final review, confirming MILA's floating, the prop's fluctuating scale/clarity, the framing violation, the static camera, and Marcus's unnatural pose. I'm ensuring everything is accounted for, using only verdict, fails, passes, and usable range. I have also verified all other aspects as passing."
     }
    ]
   },
@@ -84,18 +120,6 @@
    "status": "judging",
    "started": "2026-11-26T15:33:20Z",
    "log": [
-    {
-     "t": "2026-11-26T15:33:20Z",
-     "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-26T15:33:38Z",
-     "text": "Analyzing the Asset"
-    },
-    {
-     "t": "2026-11-26T15:33:38Z",
-     "text": "I'm currently meticulously examining the video asset frame by frame, from start to finish. I'm taking notes on the visual and auditory aspects, paying close attention to every detail of the map's presentation. Right now, I'm at the initial phase of observation, collecting raw data about the video's contents."
-    },
     {
      "t": "2026-11-26T15:33:41Z",
      "text": "Observing the Details"
@@ -127,6 +151,134 @@
     {
      "t": "2026-11-26T15:33:52Z",
      "text": "I'm now investigating potential text morphing within the video. I've compiled a list of street names and their positions on the map, particularly focusing on those near MILA. I noticed a crucial shift at 0:02; \"Orn Rd\" or similar gibberish suddenly appears near her hair, where previously there was only a street! \"Maple St\" on the left also shows an interesting evolution as her arm/marker moves."
+    },
+    {
+     "t": "2026-11-26T15:33:56Z",
+     "text": "Examining the Text's Changes"
+    },
+    {
+     "t": "2026-11-26T15:33:56Z",
+     "text": "I'm now zeroing in on the text's behavior throughout the animation. I'm focusing on \"Maple St\" and how it changes at the end. I noted a fascinating morph at 0:02 of garbled text (likely \"Orn Rd\"), followed by a brief partial occlusion. \"Oak Ave\" also seems to wobble slightly as the marker crosses it. It is clear there are multiple instances of the same street name. \"YOUR TERRITORY\" is partially co"
+    },
+    {
+     "t": "2026-11-26T15:33:56Z",
+     "text": "vered but stable. Also, I've observed that key elements remain within the 9:16 column."
+    },
+    {
+     "t": "2026-11-26T15:34:00Z",
+     "text": "Assessing the Framing"
+    },
+    {
+     "t": "2026-11-26T15:34:00Z",
+     "text": "I'm now zeroing in on the implications of the 9:16 crop. Analyzing the 1920x1080 frame, I see that MILA is mostly outside the critical 9:16 central column, which means any crop would severely cut her off. Even \"YOUR TERRITORY\" and the red oval extend outside this key area, confirming a cropping failure. Additionally, the hands on the map are static, and MILA's open-toothed smile throughout the cli"
+    },
+    {
+     "t": "2026-11-26T15:34:00Z",
+     "text": "p contradicts the stated intent of her mouth being closed."
+    },
+    {
+     "t": "2026-11-26T15:34:03Z",
+     "text": "Verifying the Character"
+    },
+    {
+     "t": "2026-11-26T15:34:03Z",
+     "text": "I'm now comparing MILA's appearance in the video to the reference image. She's a perfect match to the 2D model, staying flat, with a soft drop shadow. I've confirmed her eyes are both open and that she has her yellow gloves on. I'm noting the static camera and that there's no real push-in. I'm also confirming that MILA's outfit matches the reference image."
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "{"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"verdict\": \"FAIL\","
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"fails\": ["
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "{"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"item\": \"Action continuity\","
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"at\": \"0:01-0:02\","
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"note\": \"Oval draws around text detached from marker tip.\""
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "},"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "{"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"item\": \"Prop text morphing\","
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"at\": \"0:01-0:03\","
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"note\": \"Street labels morph and become garbled near MILA.\""
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "},"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "{"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"item\": \"Framing\","
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"at\": \"0:00-0:04\","
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"note\": \"MILA and the marker are outside the 9:16 safe zone.\""
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "}"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "],"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"passes\": ["
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"MILA is matching the 2D model.\""
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "],"
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "\"usable_range\": \"0:00-0:04\""
+    },
+    {
+     "t": "2026-11-26T15:34:06Z",
+     "text": "}"
     }
    ]
   },
@@ -138,12 +290,52 @@
     {
      "t": "2026-11-26T15:33:20Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
+    },
+    {
+     "t": "2026-11-26T15:33:53Z",
+     "text": "Initiating QA Protocol"
+    },
+    {
+     "t": "2026-11-26T15:33:53Z",
+     "text": "I'm ready to dive into the QA evaluation of the \"MILA\" video clip. I'll meticulously assess the 4.04s video, focusing on the franchise-recruitment ad's effectiveness, keeping the 2D cartoon grandma as the focal point. My analysis will center ratings to avoid extremes. The final output will be a clean, valid JSON file."
+    },
+    {
+     "t": "2026-11-26T15:33:57Z",
+     "text": "Refining Assessment Criteria"
+    },
+    {
+     "t": "2026-11-26T15:33:57Z",
+     "text": "Now, I'm adjusting my approach based on the direct PASS/FAIL requirement. Numeric scoring is unnecessary; I'll streamline the JSON output. I'm also reducing detail and verbosity, prioritizing brief, high-level summaries for descriptive elements. My focus is on frame-by-frame analysis, starting with the opening scene and MILA's initial appearance and anatomy. I'll meticulously evaluate her visual a"
+    },
+    {
+     "t": "2026-11-26T15:33:57Z",
+     "text": "ttributes and actions."
+    },
+    {
+     "t": "2026-11-26T15:34:00Z",
+     "text": "Analyzing MILA's Movements"
+    },
+    {
+     "t": "2026-11-26T15:34:00Z",
+     "text": "I'm deep into examining MILA's movements in detail, particularly from 00:00 to 00:04. The way she bends and places the sticky note is really giving me pause. I'm focusing on the animation's visual consistency, and am concerned about the significant anatomical distortions I'm observing in her dress and arm proportions. Her hands and size also seem inconsistent. I'm noting specific frame times."
+    },
+    {
+     "t": "2026-11-26T15:34:04Z",
+     "text": "Observing Camera & MILA"
+    },
+    {
+     "t": "2026-11-26T15:34:04Z",
+     "text": "I'm now focusing on the camera's gradual zoom and MILA's corresponding appearance. Her eyes remain consistently open, and her smile is static, although her head gets comparatively much larger. Her position, as she stands on the table, creates an unusual, almost pasted-on effect due to the top-down perspective, but it's acceptable for the 2D style. I'm also examining Marcus's hand movement in the s"
+    },
+    {
+     "t": "2026-11-26T15:34:04Z",
+     "text": "hot."
     }
    ]
   },
   {
    "video": "c07",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:33:20Z",
    "log": [
     {
@@ -193,8 +385,53 @@
     {
      "t": "2026-11-26T15:33:50Z",
      "text": "his is all clearly non-compliant."
+    },
+    {
+     "t": "2026-11-26T15:33:54Z",
+     "text": "Verifying the Visuals"
+    },
+    {
+     "t": "2026-11-26T15:33:54Z",
+     "text": "I've just assessed MILA's eye and framing details, confirming both eyes remain open, so Item 12 is compliant. However, my framing analysis is revealing a significant issue with Item 19. It seems MILA's position places her *outside* the center 9:16 column, which means she'd be partially cut off in a 9:16 crop. Marcus's head is centered! I'm now double-checking the horizontal positioning to confirm "
+    },
+    {
+     "t": "2026-11-26T15:33:54Z",
+     "text": "these observations and quantify the degree of non-compliance."
+    },
+    {
+     "t": "2026-11-26T15:33:58Z",
+     "text": "{"
+    },
+    {
+     "t": "2026-11-26T15:33:58Z",
+     "text": "\"update\": \"**Calculating Positioning and Issues**\\n\\nI've calculated MILA's horizontal position within the frame and confirmed she falls outside the central 9:16 column, which would cause her to be partially cropped. Further verification reveals the \\\"MIL Cleaners\\\" shirt text is garbled, and MILA's mouth opens violating the \\\"mouth closed\\\" directive. Her 3D rendering and lack of hook SFX also po"
+    },
+    {
+     "t": "2026-11-26T15:33:58Z",
+     "text": "se non-compliance issues.\""
+    },
+    {
+     "t": "2026-11-26T15:33:58Z",
+     "text": "}"
+    },
+    {
+     "t": "2026-11-26T15:34:01Z",
+     "text": "Summarizing the Compliance"
+    },
+    {
+     "t": "2026-11-26T15:34:01Z",
+     "text": "I've distilled the compliance review into key PASS and FAIL categories. The script and Marcus's voice are accurate, and MILA keeps both eyes open. However, the notepad and shirt text are illegible, MILA renders as a 3D model, her mouth opens when it shouldn't, and her positioning exceeds the safe 9:16 frame."
+    },
+    {
+     "t": "2026-11-26T15:34:04Z",
+     "text": "Verdict FAIL. 0:00-0:04 23/11 Prop & Logo Text: Notepad contains garbled, illegible scribbles and Marcus's shirt logo appears misspelled/garbled. | 0:00-0:04 25 MILA 2D Style: MILA has 3D figurine shading instead of flat 2D hand-painted style. | 0:02-0:04 7/Intent MILA Mouth: MILA opens and moves her mouth silently during VO instead of keeping it closed. | 0:00-0:04 19 9:16 Safe Framing: MILA sits"
+    },
+    {
+     "t": "2026-11-26T15:34:04Z",
+     "text": " outside the center 9:16 column and would be cropped out in vertical exports."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:34:04Z"
   },
   {
    "video": "c06",
