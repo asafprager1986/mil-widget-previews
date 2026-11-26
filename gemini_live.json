@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T15:34:06Z",
+ "updated": "2026-11-26T15:34:21Z",
  "runs": [
   {
    "video": "c11",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:33:20Z",
    "log": [
     {
@@ -101,8 +101,17 @@
     {
      "t": "2026-11-26T15:34:05Z",
      "text": "I am now consolidating all failure points into the schema for final review, confirming MILA's floating, the prop's fluctuating scale/clarity, the framing violation, the static camera, and Marcus's unnatural pose. I'm ensuring everything is accounted for, using only verdict, fails, passes, and usable range. I have also verified all other aspects as passing."
+    },
+    {
+     "t": "2026-11-26T15:34:08Z",
+     "text": "Verdict FAIL. 0:00-0:04 MILA grounding: MILA floats above Marcus's forearm with visible van gap under her shoes instead of standing grounded. | 0:00-0:02 Prop size and text stability (Items 4, 23): Blue folder noticeably shrinks while sliding to Marcus's chest, and its label text appears soft/slightly garbled. | 0:00-0:04 Framing / 9:16 safe area (Item 19): Marcus's face and the held folder sit le"
+    },
+    {
+     "t": "2026-11-26T15:34:08Z",
+     "text": "ft of the center 9:16 column and would be cut off in vertical crops. | 0:00-0:02 Hook / camera motion (Item 2): Camera stays nearly static with no dynamic hook move in the opening seconds."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:34:08Z"
   },
   {
    "video": "c10",
@@ -112,22 +121,42 @@
     {
      "t": "2026-11-26T15:33:20Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
+    },
+    {
+     "t": "2026-11-26T15:34:15Z",
+     "text": "Analyzing System Requirements"
+    },
+    {
+     "t": "2026-11-26T15:34:16Z",
+     "text": "I'm currently dissecting the system prompt's constraints. I've noted the strict JSON formatting requirement, specifically the need for string values to be double-quoted. Also, that only scalars, boolean and null are permitted. I'm focusing on the intricacies and ensuring my approach aligns perfectly with the specified output demands."
+    },
+    {
+     "t": "2026-11-26T15:34:18Z",
+     "text": "Refining Output Constraints"
+    },
+    {
+     "t": "2026-11-26T15:34:18Z",
+     "text": "I'm now zeroing in on the output specifics, taking care to avoid any extraneous comments or text outside the JSON block, as requested. I've also integrated the verbosity reduction directive for long-form attributes, ensuring brevity and prioritization of summaries over granular details. The schema is embedded, and I am watching the clip! I am watching the details of the clip."
+    },
+    {
+     "t": "2026-11-26T15:34:21Z",
+     "text": "Observing Mila's Features"
+    },
+    {
+     "t": "2026-11-26T15:34:21Z",
+     "text": "I'm now focused on Mila's visual characteristics within the specified timeframe. I've noted her 2D cartoon style, matching the model sheet details: gray curly hair, pink glasses, pearl necklace, blue polka dot dress, pink apron, yellow gloves, and blue shoes. I am watching for subtle details, specifically, the movement of her hands, mouth and eyes, as they may suggest more clues. I am watching her"
+    },
+    {
+     "t": "2026-11-26T15:34:21Z",
+     "text": " hands clap, wave, and wiggle, and have found that she always has two arms and two hands visible."
     }
    ]
   },
   {
    "video": "c09",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:33:20Z",
    "log": [
-    {
-     "t": "2026-11-26T15:33:41Z",
-     "text": "Observing the Details"
-    },
-    {
-     "t": "2026-11-26T15:33:41Z",
-     "text": "I've moved on to examining the audio and visual elements more closely. The voice-over is a warm, calm American male, and I've confirmed a faint marker squeak sound. Visually, the camera has a subtle push-in, and MILA is smiling with an open mouth, showing teeth throughout the clip."
-    },
     {
      "t": "2026-11-26T15:33:46Z",
      "text": "Tracing the Red Line"
@@ -279,12 +308,21 @@
     {
      "t": "2026-11-26T15:34:06Z",
      "text": "}"
+    },
+    {
+     "t": "2026-11-26T15:34:10Z",
+     "text": "Verdict FAIL. 0:01-0:02 Action continuity / marker drawing (#9): Red oval draws itself independently instead of tracing from the marker tip. | 0:01-0:03 Prop text morphing (#23): Map labels near MILA morph and garble (garbled text appears by her hair at 0:02; Maple St distorts). | 0:00-0:04 Framing / 9:16 safe column (#19): MILA and marker sit left of the center 9:16 column and would be cut off in"
+    },
+    {
+     "t": "2026-11-26T15:34:10Z",
+     "text": " vertical crops. | 0:00-0:04 Camera move (#2 / intent): Camera is static instead of the requested slow push-in. | 0:00-0:04 MILA mouth (intent): MILA keeps an open-toothed smile rather than mouth closed. | 0:00-0:04 Static hands (#13): Marcus's hands holding the map appear mostly frozen."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:34:10Z"
   },
   {
    "video": "c08",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:33:20Z",
    "log": [
     {
@@ -330,8 +368,49 @@
     {
      "t": "2026-11-26T15:34:04Z",
      "text": "hot."
+    },
+    {
+     "t": "2026-11-26T15:34:08Z",
+     "text": "Evaluating Audio & Visual"
+    },
+    {
+     "t": "2026-11-26T15:34:08Z",
+     "text": "I'm now focusing on the audio and its match to the visuals. The male voice is warm and clear, with no issues in delivery. I've listened closely to the SFX around the sticky note placement, confirming that there is no distinct \"paper stick\" sound, though there is faint music that may resemble it. I'm verifying the visual consistency of the sticky note text with the spoken words, and note the matchi"
+    },
+    {
+     "t": "2026-11-26T15:34:08Z",
+     "text": "ng of key phrases."
+    },
+    {
+     "t": "2026-11-26T15:34:11Z",
+     "text": "Assessing Text & Framing"
+    },
+    {
+     "t": "2026-11-26T15:34:11Z",
+     "text": "I'm now deeply engaged in a text and framing check. The sticky notes display \"LOCAL MARKETING\", \"ONGOING GUIDANCE\", and \"TRAINING\" as requested; all are legible, and correctly spelled. I've noted that their placement within the frame is slightly off, however, with \"LOCAL MARKETING\" appearing to the left, and \"TRAINING\" to the right, which creates a slight issue in the center 9:16 crop."
+    },
+    {
+     "t": "2026-11-26T15:34:15Z",
+     "text": "Reviewing Visual Anomalies"
+    },
+    {
+     "t": "2026-11-26T15:34:15Z",
+     "text": "I'm now zeroing in on the specific visual issues. The framing cuts off a significant portion of the scene (Item 19), with MILA at 75% on the right and partially cut off. Her anatomy (Items 17 & 25) is clearly distorted from 00:01.5 to 00:04.0, particularly the dress's arch-like loops and the unnaturally stretched forearms. Additionally, from 00:00 to 00:01.5, MILA's movement down the table lacks n"
+    },
+    {
+     "t": "2026-11-26T15:34:15Z",
+     "text": "atural perspective, and her feet disappear. However, I confirmed Item 2 (hook) isn't directly applicable here."
+    },
+    {
+     "t": "2026-11-26T15:34:21Z",
+     "text": "Verdict FAIL. 00:01.5-00:04.0 17/25 MILA anatomy & model: Bending pose distorts dress sleeves into loop-like side appendages and stretches arms off-model. | 00:00.0-00:04.0 19 Center 9:16 framing: MILA and outer sticky notes extend outside the center 9:16 safe column. | 00:02.0-00:03.5 10 Impact SFX: No distinct paper-stick or pat SFX synced to note placement. | 00:00.0-00:02.0 Grounding / perspec"
+    },
+    {
+     "t": "2026-11-26T15:34:21Z",
+     "text": "tive: Front-view MILA appears pasted sliding down a top-down table."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:34:21Z"
   },
   {
    "video": "c07",
@@ -435,7 +514,7 @@
   },
   {
    "video": "c06",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:33:20Z",
    "log": [
     {
@@ -497,8 +576,17 @@
     {
      "t": "2026-11-26T15:33:53Z",
      "text": "I've just distilled the issues into three key failures. There's a garbled opening line, MILA exhibits unnatural floating, and crucial text within the props, such as the phone UI and Marcus's shirt, is illegible. I've focused on concise summaries of each failure, ensuring they align perfectly with the system's instructions."
+    },
+    {
+     "t": "2026-11-26T15:34:15Z",
+     "text": "Verdict FAIL. VO diff: '' -> 'i' | 0:00-0:01 Audio/Script accuracy: Opening word 'Add' is mispronounced/clipped, sounding like 'I got' or 'Back at'. | 0:02-0:04 MILA grounding: MILA glides and floats upward over Marcus's sleeve instead of naturally stepping onto his forearm. | 0:00-0:05 Props & text legibility: Phone app UI text is blurry and illegible; shirt logo reads garbled ('ML Cleaners'). | "
+    },
+    {
+     "t": "2026-11-26T15:34:15Z",
+     "text": "0:00-0:02 9:16 center framing: MILA starts outside the center 9:16 safe column on the right. | 0:00-0:02 Hook SFX: No hook sound effect in the opening 1-2 seconds."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:34:15Z"
   }
  ]
 }
