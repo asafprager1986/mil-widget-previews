@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:54:20Z",
+ "updated": "2026-11-26T15:54:35Z",
  "runs": [
   {
    "video": "KYC_v4_16x9",
@@ -65,6 +65,58 @@
     {
      "t": "2026-11-26T15:54:20Z",
      "text": "t phase."
+    },
+    {
+     "t": "2026-11-26T15:54:23Z",
+     "text": "Identifying Visual Anomalies"
+    },
+    {
+     "t": "2026-11-26T15:54:23Z",
+     "text": "I'm now zeroing in on a new sequence of visual oddities. At 0:25-0:30, I see MILA's scale and positioning fluctuate wildly, floating near the van or on the ground at the bumper, and finally floating in mid-air near the blue binder. Marcus remains without his glasses throughout this period, his eyes squinting strangely. The inconsistencies warrant careful attention. I will examine the end card and "
+    },
+    {
+     "t": "2026-11-26T15:54:23Z",
+     "text": "its prompt."
+    },
+    {
+     "t": "2026-11-26T15:54:26Z",
+     "text": "Verifying End Card Consistency"
+    },
+    {
+     "t": "2026-11-26T15:54:26Z",
+     "text": "I've verified the \"Start Today\" button on the end card aligns with Asaf's instructions and the established intent, confirming a pass. I've now begun a comprehensive review of potential failures. I am cataloging the Marcus glasses inconsistency, as his appearance differs substantially in distinct video sequences, noting the presence and absence of glasses as crucial visual discrepancies. I am also "
+    },
+    {
+     "t": "2026-11-26T15:54:26Z",
+     "text": "cataloging the \"M.I.L. Cleaners\" shirt, which may indicate a visual defect."
+    },
+    {
+     "t": "2026-11-26T15:54:29Z",
+     "text": "Analyzing Audio-Visual Flaws"
+    },
+    {
+     "t": "2026-11-26T15:54:29Z",
+     "text": "I'm now focusing on specific audio-visual discrepancies. I've noted a clipped \"customers\" at 0:11 and \"leading\" at 0:18. Additionally, Marcus's mouth movements at 0:00-0:01 and 0:15-0:18 are unsynced with the voiceover, and the camera is completely static at 0:00-0:02. Further, MILA floats unsupported at 0:27-0:29. I am now working on ensuring all of this data is logged and cross referenced."
+    },
+    {
+     "t": "2026-11-26T15:54:32Z",
+     "text": "Confirming Lip Sync Data"
+    },
+    {
+     "t": "2026-11-26T15:54:32Z",
+     "text": "I've been meticulously examining the lip-sync from the video clip, from 0:00 to 0:30. I've found clear syncing issues at 0:00-0:01, 0:15-0:18, and 0:27-0:28, the speaker's mouth movements do not match the voiceover. The other sections of video are in sync. I will log this into the system."
+    },
+    {
+     "t": "2026-11-26T15:54:35Z",
+     "text": "Evaluating Text Placement"
+    },
+    {
+     "t": "2026-11-26T15:54:35Z",
+     "text": "I am now assessing the captions' placement; they are too close to the screen's bottom edge (within the unsafe zone). I also spotted a spelling error (\"CUSTOMER\" instead of \"CUSTOMERS\") and a truncated word (\"LEAD\") that mirror audio issues. Further, I have begun documenting props and text, like the garbled van magnet (\"Homes Services\") and the repetitive street names on the map. I am now noting vo"
+    },
+    {
+     "t": "2026-11-26T15:54:35Z",
+     "text": "ice consistency."
     }
    ]
   },
