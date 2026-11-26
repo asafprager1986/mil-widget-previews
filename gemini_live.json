@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:51:55Z",
+ "updated": "2026-11-26T15:52:11Z",
  "runs": [
   {
    "video": "KYC_v4_16x9",
@@ -57,6 +57,58 @@
     {
      "t": "2026-11-26T15:51:55Z",
      "text": "I'm now zeroing in on the \"Owner Onboarding\" segment. Specifically, I noted the garbled text on the laptop screen and MILA's animated actions. I confirmed the word cut-off at 00:11, and the slight clipping of \"tools\" at 00:14.5. I've also observed MILA's movements across the counter and her pointing gesture."
+    },
+    {
+     "t": "2026-11-26T15:51:59Z",
+     "text": "Examining the Scene"
+    },
+    {
+     "t": "2026-11-26T15:51:59Z",
+     "text": "I'm now comparing the kitchen scene across multiple timestamps. It appears largely consistent in terms of the cabinets, table, and island. I'm currently assessing the segment between 00:14.5 and 00:18, where Marcus is on the phone and writing, and MILA is standing on the table. The lip sync is a major issue here, since Marcus's lip movements are very limited, and MILA's mouth opens and closes as i"
+    },
+    {
+     "t": "2026-11-26T15:51:59Z",
+     "text": "f mouthing the words being spoken by Marcus. The word \"leading\" is also abruptly cut off."
+    },
+    {
+     "t": "2026-11-26T15:52:01Z",
+     "text": "Detecting the Mismatches"
+    },
+    {
+     "t": "2026-11-26T15:52:02Z",
+     "text": "I'm now zeroing in on the last few seconds. I've noted the mismatch between the voiceover saying \"Plus local marketing support and ongoing guidance\" and MILA placing a \"TRAINING\" sticky note. I've also identified an issue with MILA's size and perspective relative to the coffee mug, making her appear flat. The map segment reveals duplicates in the street labels. Finally, I've seen that the scene wi"
+    },
+    {
+     "t": "2026-11-26T15:52:02Z",
+     "text": "th Marcus and the crew in front of the van also presents a size inconsistency with MILA."
+    },
+    {
+     "t": "2026-11-26T15:52:05Z",
+     "text": "Confirming Anomalies"
+    },
+    {
+     "t": "2026-11-26T15:52:05Z",
+     "text": "I'm now focusing on MILA's spatial positioning in the final frames. At 00:25, her lack of groundedness by the van becomes apparent, her feet not touching the ground. Further analysis shows she's clearly floating. At 00:27, she's visibly hovering next to Marcus and the binder, solidifying the floating anomaly. I've also verified Marcus's lip sync is consistent in this segment, though I must remembe"
+    },
+    {
+     "t": "2026-11-26T15:52:05Z",
+     "text": "r to include the overlay at 00:28.5."
+    },
+    {
+     "t": "2026-11-26T15:52:08Z",
+     "text": "Verifying the Details"
+    },
+    {
+     "t": "2026-11-26T15:52:08Z",
+     "text": "I'm now cross-referencing the prompt's call-to-action text with the provided checklists. I've confirmed the \"Start Today\" button on the end card aligns with the latest specifications, so that part is a pass! I'm now making a final review of the core issues. I will also check the bottom-text issue."
+    },
+    {
+     "t": "2026-11-26T15:52:11Z",
+     "text": "Confirming Final Issues"
+    },
+    {
+     "t": "2026-11-26T15:52:11Z",
+     "text": "I'm now consolidating my findings into the final report. I've re-reviewed MILA's floating at timestamps 00:25 and 00:27, as well as the shirt logo and van model inconsistencies, to include the garbled text in the prop and MILA's style drift. I'm also including the static camera issue in the report, to ensure the full report is complete."
     }
    ]
   },
