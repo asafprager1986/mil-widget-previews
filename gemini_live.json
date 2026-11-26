@@ -1,129 +1,16 @@
 {
- "updated": "2026-11-26T15:52:16Z",
+ "updated": "2026-11-26T15:53:46Z",
  "runs": [
   {
    "video": "KYC_v4_16x9",
-   "status": "FAIL",
-   "started": "2026-11-26T15:51:27Z",
+   "status": "judging",
+   "started": "2026-11-26T15:53:46Z",
    "log": [
     {
-     "t": "2026-11-26T15:51:27Z",
+     "t": "2026-11-26T15:53:46Z",
      "text": "Gemini 4 Neon started judging against Asaf's checklist."
-    },
-    {
-     "t": "2026-11-26T15:51:41Z",
-     "text": "Analyzing the Instructions"
-    },
-    {
-     "t": "2026-11-26T15:51:42Z",
-     "text": "I'm currently dissecting the prompt, Mila's reference image, and the video asset (30.0s, 16:9). I'm carefully noting the system's instructions: generating valid JSON, avoiding comments, and compressing evaluations toward brevity. I'm focusing on the constraints."
-    },
-    {
-     "t": "2026-11-26T15:51:45Z",
-     "text": "Evaluating the Evidence"
-    },
-    {
-     "t": "2026-11-26T15:51:45Z",
-     "text": "I'm now deep-diving into the video, frame-by-frame, beginning with the first couple of seconds. I'm prioritizing brevity as requested; focusing on key visual and audio elements like camera movement and lip-sync. Currently, the initial checks are related to a lack of dynamic camera move and lip sync for the speaker Marcus. The initial review of the audio reveals a slightly audible pop."
-    },
-    {
-     "t": "2026-11-26T15:51:48Z",
-     "text": "Assessing the Lip Sync"
-    },
-    {
-     "t": "2026-11-26T15:51:49Z",
-     "text": "I've pinpointed lip-sync inconsistencies. The initial seconds show Marcus's mouth not moving, a clear audio-visual mismatch. However, from 00:01, his mouth syncs with the audio. I've also assessed the MILA visual, noting her size and positioning relative to Marcus, alongside consistent eye behavior. In the next segment, Marcus's mouth syncs properly for his lines. Consistency checks also showed th"
-    },
-    {
-     "t": "2026-11-26T15:51:49Z",
-     "text": "at his shirt has NO logo at the start, but then has a logo shown."
-    },
-    {
-     "t": "2026-11-26T15:51:52Z",
-     "text": "Identifying Inconsistencies"
-    },
-    {
-     "t": "2026-11-26T15:51:52Z",
-     "text": "I've discovered significant inconsistencies in the video. The \"M.I.L. Cleaners\" logo on Marcus's shirt appears and disappears across different shots, as do the vans. Also, the text on the paper he holds flickers slightly. The van sign also has inconsistencies; it's partially obscured by MILA and \"the name\" gets cut slightly abruptly at 00:07.8. I'm now looking at the kitchen scene for more discrep"
-    },
-    {
-     "t": "2026-11-26T15:51:52Z",
-     "text": "ancies."
-    },
-    {
-     "t": "2026-11-26T15:51:55Z",
-     "text": "Pinpointing Additional Flaws"
-    },
-    {
-     "t": "2026-11-26T15:51:55Z",
-     "text": "I'm now zeroing in on the \"Owner Onboarding\" segment. Specifically, I noted the garbled text on the laptop screen and MILA's animated actions. I confirmed the word cut-off at 00:11, and the slight clipping of \"tools\" at 00:14.5. I've also observed MILA's movements across the counter and her pointing gesture."
-    },
-    {
-     "t": "2026-11-26T15:51:59Z",
-     "text": "Examining the Scene"
-    },
-    {
-     "t": "2026-11-26T15:51:59Z",
-     "text": "I'm now comparing the kitchen scene across multiple timestamps. It appears largely consistent in terms of the cabinets, table, and island. I'm currently assessing the segment between 00:14.5 and 00:18, where Marcus is on the phone and writing, and MILA is standing on the table. The lip sync is a major issue here, since Marcus's lip movements are very limited, and MILA's mouth opens and closes as i"
-    },
-    {
-     "t": "2026-11-26T15:51:59Z",
-     "text": "f mouthing the words being spoken by Marcus. The word \"leading\" is also abruptly cut off."
-    },
-    {
-     "t": "2026-11-26T15:52:01Z",
-     "text": "Detecting the Mismatches"
-    },
-    {
-     "t": "2026-11-26T15:52:02Z",
-     "text": "I'm now zeroing in on the last few seconds. I've noted the mismatch between the voiceover saying \"Plus local marketing support and ongoing guidance\" and MILA placing a \"TRAINING\" sticky note. I've also identified an issue with MILA's size and perspective relative to the coffee mug, making her appear flat. The map segment reveals duplicates in the street labels. Finally, I've seen that the scene wi"
-    },
-    {
-     "t": "2026-11-26T15:52:02Z",
-     "text": "th Marcus and the crew in front of the van also presents a size inconsistency with MILA."
-    },
-    {
-     "t": "2026-11-26T15:52:05Z",
-     "text": "Confirming Anomalies"
-    },
-    {
-     "t": "2026-11-26T15:52:05Z",
-     "text": "I'm now focusing on MILA's spatial positioning in the final frames. At 00:25, her lack of groundedness by the van becomes apparent, her feet not touching the ground. Further analysis shows she's clearly floating. At 00:27, she's visibly hovering next to Marcus and the binder, solidifying the floating anomaly. I've also verified Marcus's lip sync is consistent in this segment, though I must remembe"
-    },
-    {
-     "t": "2026-11-26T15:52:05Z",
-     "text": "r to include the overlay at 00:28.5."
-    },
-    {
-     "t": "2026-11-26T15:52:08Z",
-     "text": "Verifying the Details"
-    },
-    {
-     "t": "2026-11-26T15:52:08Z",
-     "text": "I'm now cross-referencing the prompt's call-to-action text with the provided checklists. I've confirmed the \"Start Today\" button on the end card aligns with the latest specifications, so that part is a pass! I'm now making a final review of the core issues. I will also check the bottom-text issue."
-    },
-    {
-     "t": "2026-11-26T15:52:11Z",
-     "text": "Confirming Final Issues"
-    },
-    {
-     "t": "2026-11-26T15:52:11Z",
-     "text": "I'm now consolidating my findings into the final report. I've re-reviewed MILA's floating at timestamps 00:25 and 00:27, as well as the shirt logo and van model inconsistencies, to include the garbled text in the prop and MILA's style drift. I'm also including the static camera issue in the report, to ensure the full report is complete."
-    },
-    {
-     "t": "2026-11-26T15:52:16Z",
-     "text": "Verdict FAIL. VO diff: 'customers' -> 'cu'; 'tools' -> 'tool'; 'leading' -> 'lead' | 00:11, 00:14, 00:18 8. Word cut-offs: Audio clips mid-word at cuts ('customers', 'tools', 'leading'). | 00:00-00:01, 00:16-00:18 7. Lips vs audio: Marcus's mouth stays closed during opening line; MILA mouths words silently at table. | 00:25, 00:27 Floating MILA: MILA floats mid-air beside binder against van door a"
-    },
-    {
-     "t": "2026-11-26T15:52:16Z",
-     "text": "nd slightly off ground by open van. | 00:00-00:06 18. Consistency: Shirt lacks logo at 00:00 then gains it at 00:02; van model changes between exterior shots. | 00:00-00:02 2. Hook: Static opening shot with no dynamic camera move or hook SFX. | 00:03, 00:08, 00:22, 00:27 23. Prop text quality: Garbled text on list, laptop, and binder; duplicated street names on map. | 00:00-00:28 25. MILA style: M"
-    },
-    {
-     "t": "2026-11-26T15:52:16Z",
-     "text": "ILA renders with slightly glossy 3D shading rather than flat 2D caricature."
     }
-   ],
-   "finished": "2026-11-26T15:52:16Z"
+   ]
   },
   {
    "video": "c11",
