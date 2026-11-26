@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T15:47:28Z",
+ "updated": "2026-11-26T15:47:40Z",
  "runs": [
   {
    "video": "c11",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:46:42Z",
    "log": [
     {
@@ -97,8 +97,17 @@
     {
      "t": "2026-11-26T15:47:27Z",
      "text": "I'm now collating the most glaring issues for the report. MILA persistently floats above Marcus's arm, and the blue folder's scale morphs disconcertingly. Furthermore, her open smile is a clear deviation from the request, compounded by the static camera and framing errors that would crop his face. I've noted the passes, and the usable range is none, due to these inconsistencies."
+    },
+    {
+     "t": "2026-11-26T15:47:30Z",
+     "text": "Verdict FAIL. 00:01-00:04 MILA grounded: MILA floats above Marcus's forearm with white van visible beneath her shoes. | 00:00-00:02 Prop scale/morph: Blue folder noticeably shrinks and shifts shape as it moves to Marcus's chest. | 00:00-00:04 Framing (Rule 19): Marcus's face sits outside the left edge of the center 9:16 column. | 00:00-00:04 MILA mouth closed: MILA maintains an open-toothed smile "
+    },
+    {
+     "t": "2026-11-26T15:47:30Z",
+     "text": "rather than a closed mouth. | 00:00-00:04 Camera movement: Camera stays static, lacking the requested push-in or hook move."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:47:30Z"
   },
   {
    "video": "c10",
@@ -302,7 +311,7 @@
   },
   {
    "video": "c08",
-   "status": "judging",
+   "status": "FAIL",
    "started": "2026-11-26T15:46:42Z",
    "log": [
     {
@@ -372,8 +381,33 @@
     {
      "t": "2026-11-26T15:47:28Z",
      "text": " actual action performed, and have identified several discrepancies. Mila isn't walking but is sliding down the table."
+    },
+    {
+     "t": "2026-11-26T15:47:32Z",
+     "text": "Reconciling Visual Discrepancies"
+    },
+    {
+     "t": "2026-11-26T15:47:32Z",
+     "text": "I'm now zeroing in on discrepancies in Mila's actions within the frames. Her eye closure and open-mouthed smile (00:00-00:01.8) contradict the desired attributes. I also see her lower body/skirt disappearing behind the sticky note, and a strange arching of her sleeves and morphing of the gloves as she pats the note. Finally, the \"TRAINING\" sticky note scales up dramatically."
+    },
+    {
+     "t": "2026-11-26T15:47:34Z",
+     "text": "Confirming Action Alignment"
+    },
+    {
+     "t": "2026-11-26T15:47:34Z",
+     "text": "I'm now integrating the prompt's intended action with observed actions, and have clarified that the sticky note placement is correct and intentional. I've re-examined the JSON format requirements, ensuring compliance and the intended concise reporting style. I must now double-check discrepancies to ensure their presence in the video. The eye closure has been re-confirmed as a fail."
+    },
+    {
+     "t": "2026-11-26T15:47:40Z",
+     "text": "Verdict FAIL. 00:02-00:04 MILA eyes closed (#12): Both eyes shut while pressing and patting the note. | 00:00-00:02 MILA mouth closed: Mouth stays open smiling instead of closed. | 00:01-00:04 MILA anatomy/model morph (#17, #25): Lower body vanishes and polka-dot sleeves deform into arched loops. | 00:00-00:02 Prop scale morph / sliding (#4, #23): MILA slides instead of walking and the TRAINING no"
+    },
+    {
+     "t": "2026-11-26T15:47:40Z",
+     "text": "te scales up as placed. | 00:00-00:04 Center 9:16 framing (#19): MILA and outer sticky notes sit outside the center 9:16 safe column."
     }
-   ]
+   ],
+   "finished": "2026-11-26T15:47:40Z"
   },
   {
    "video": "c07",
